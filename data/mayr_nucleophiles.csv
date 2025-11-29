@@ -1,0 +1,1040 @@
+Smiles,Solvent,N,sN,smiles
+CC1=CC=CC=C1,dichloromethane,-4.36,1.77,CC1=CC=CC=C1
+CN(C)C(=S)[S-],MeCN,20.93,0.69,CN(C)C(=S)[S-]
+CC1=CC(C)=CC=C1,dichloromethane,-3.57,2.08,CC1=CC(C)=CC=C1
+CC=Cc1ccccc1,dichloromethane,-0.49,1.18,CC=Cc1ccccc1
+C=C(O[Si](C)(C)C)/C=C/OC,dichloromethane,8.57,0.84,C=C(O[Si](C)(C)C)/C=C/OC
+CCOC(=O)C(C)=P(c1ccccc1)(c2ccccc2)c3ccccc3,dichloromethane,13.09,0.73,CCOC(=O)C(C)=P(c1ccccc1)(c2ccccc2)c3ccccc3
+CC1=CC=CS1,dichloromethane,1.35,0.99,CC1=CC=CS1
+CN1C=CC=C1,dichloromethane,5.85,1.03,CN1C=CC=C1
+COC1=CC=CC(OC)=C1,dichloromethane,2.48,1.09,COC1=CC=CC(OC)=C1
+CCOC(=O)C=P(c1ccccc1)(c2ccccc2)c3ccccc3,dichloromethane,12.79,0.77,CCOC(=O)C=P(c1ccccc1)(c2ccccc2)c3ccccc3
+C=C(O[Si](C)(C)C)C1=CC=CC=C1,dichloromethane,6.22,0.96,C=C(O[Si](C)(C)C)C1=CC=CC=C1
+C[Si](OC1=CCCO1)(C)C,dichloromethane,12.56,0.7,C[Si](OC1=CCCO1)(C)C
+C=C(C)C[Sn](CCCC)(CCCC)CCCC,dichloromethane,7.48,0.89,C=C(C)C[Sn](CCCC)(CCCC)CCCC
+C=CC[Si](C)(C)C,dichloromethane,1.68,1.0,C=CC[Si](C)(C)C
+CC1=CC=CO1,dichloromethane,3.61,1.11,CC1=CC=CO1
+C=CC1=CC=CC=C1,dichloromethane,0.78,0.95,C=CC1=CC=CC=C1
+C[Si](OC1=CCCCO1)(C)C,dichloromethane,10.61,0.86,C[Si](OC1=CCCCO1)(C)C
+C=CC[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,3.09,0.9,C=CC[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+C=C(C)C[Si](C)(C)C,dichloromethane,4.41,0.96,C=C(C)C[Si](C)(C)C
+C=C(O[Si](C)(C)C)C,dichloromethane,5.41,0.91,C=C(O[Si](C)(C)C)C
+CC1=CC=C(C=C1)S(=O)(=O)CN=C,dichloromethane,3.5,0.76,CC1=CC=C(C=C1)S(=O)(=O)CN=C
+CC1=CC(C)=CC(C)=C1[N+]2=[C-]N(C3=C(C)C=C(C)C=C3C)CC2,THF,23.35,0.4,CC1=CC(C)=CC(C)=C1[N+]2=[C-]N(C3=C(C)C=C(C)C=C3C)CC2
+C[Si](OC1=CCCCC1)(C)C,dichloromethane,5.21,1.0,C[Si](OC1=CCCCC1)(C)C
+C=CC[Sn](CCCC)(CCCC)CCCC,dichloromethane,5.46,0.89,C=CC[Sn](CCCC)(CCCC)CCCC
+C=C1CCCC1,dichloromethane,2.82,0.9,C=C1CCCC1
+O=C(c1ccccc1)C=P(c2ccccc2)(c3ccccc3)c4ccccc4,dichloromethane,9.54,0.97,O=C(c1ccccc1)C=P(c2ccccc2)(c3ccccc3)c4ccccc4
+C/C(C[Si](CC)(CC)CC)=C(C)\C,dichloromethane,3.15,1.15,C/C(C[Si](CC)(CC)CC)=C(C)\C
+CC(C)(C)N=[C],dichloromethane,5.47,0.77,CC(C)(C)N=[C]
+CC(C)[O-],iPrOH,17.03,0.63,CC(C)[O-]
+C1(C=CC=C2)=C2NC=C1,dichloromethane,5.55,1.09,C1(C=CC=C2)=C2NC=C1
+C=C(Cl)C,dichloromethane,-3.65,1.97,C=C(Cl)C
+C[CH-][N+]([O-])=O,DMSO,21.54,0.62,C[CH-][N+]([O-])=O
+[BH3-][N+](CC)(CC)CC,dichloromethane,8.9,0.75,[BH3-][N+](CC)(CC)CC
+N1(CCOCC1)C2=CCCC2,dichloromethane,13.41,0.82,N1(CCOCC1)C2=CCCC2
+C=C(C)C=C,dichloromethane,1.1,0.98,C=C(C)C=C
+ClC1=CC=C2C(C=CN2)=C1,MeCN,4.42,1.1,ClC1=CC=C2C(C=CN2)=C1
+[H]C#CC1=CC=CC=C1,dichloromethane,-0.04,0.77,[H]C#CC1=CC=CC=C1
+CC=CC(C)([H])C=CC,dichloromethane,-0.73,0.97,CC=CC(C)([H])C=CC
+C=C1CCCCC1,dichloromethane,1.16,1.04,C=C1CCCCC1
+O=C([CH-][N+]1=CC=CC=C1)N(CC)CC,DMSO,27.45,0.38,O=C([CH-][N+]1=CC=CC=C1)N(CC)CC
+O=C(C1=CC=C2C(C=CN2)=C1)O,MeCN,3.97,1.1,O=C(C1=CC=C2C(C=CN2)=C1)O
+[H]C([Si](C)(C)C)=[N+]=[N-],dichloromethane,8.97,0.75,[H]C([Si](C)(C)C)=[N+]=[N-]
+[C-]#N,MeCN,16.27,0.7,[C-]#N
+BrC1=CC=C2C(C=CN2)=C1,MeCN,4.38,1.1,BrC1=CC=C2C(C=CN2)=C1
+C=C/C=C/C,dichloromethane,1.49,1.0,C=C/C=C/C
+C/C(C)=C/OCC,dichloromethane,4.23,1.0,C/C(C)=C/OCC
+CC([C-](C)C(C)=O)=O,water,14.33,0.69,CC([C-](C)C(C)=O)=O
+[H]N(C(C)(C)C)[H],water,10.48,0.65,[H]N(C(C)(C)C)[H]
+CCCN,water,13.33,0.56,CCCN
+CCCO,nPrOH-MeCN mix,7.05,0.8,CCCO
+CC([C-](C)C(C)=O)=O,DMSO,18.38,0.72,CC([C-](C)C(C)=O)=O
+NC(C(O)C)C([O-])=O,water,12.69,0.6,NC(C(O)C)C([O-])=O
+N#CC1=CC=C2C(C=CN2)=C1,MeCN,2.83,1.1,N#CC1=CC=C2C(C=CN2)=C1
+N1(CCCC1)C2=CCCC2,dichloromethane,15.91,0.86,N1(CCCC1)C2=CCCC2
+[H]OCC(F)(F)F,TFE,1.11,0.96,[H]OCC(F)(F)F
+NC1=CC=CC=C1,water,12.99,0.73,NC1=CC=CC=C1
+CC[O-],EtOH,15.78,0.65,CC[O-]
+[H]O[H],water-acetone mix,5.77,0.87,[H]O[H]
+[H][B-](OC(C)=O)(OC(C)=O)OC(C)=O,DMSO,14.45,0.76,[H][B-](OC(C)=O)(OC(C)=O)OC(C)=O
+O,water,5.2,0.89,O
+CCCC[Sn](C1=CC=CS1)(CCCC)CCCC,dichloromethane,1.53,1.0,CCCC[Sn](C1=CC=CS1)(CCCC)CCCC
+[Br-],TFE,11.7,0.6,[Br-]
+CC1=CCCCC1,dichloromethane,0.08,1.15,CC1=CCCCC1
+CC1=CC=C(C)N1,MeCN,8.01,0.96,CC1=CC=C(C)N1
+[H][B-](C#N)([H])[H],DMSO,11.52,0.67,[H][B-](C#N)([H])[H]
+CCNCC,MeCN,15.1,0.73,CCNCC
+NCC(F)(F)F,DMSO,12.15,0.65,NCC(F)(F)F
+CN(C1=CC=NC=C1)C,MeCN,15.51,0.62,CN(C1=CC=NC=C1)C
+CN1C2=C(C=CC=C2)C=C1,dichloromethane,5.75,1.23,CN1C2=C(C=CC=C2)C=C1
+[H]N([H])[H],water,9.48,0.59,[H]N([H])[H]
+[N-]=[N+]=[N-],DMSO,20.5,0.59,[N-]=[N+]=[N-]
+CN(C)NC=O,MeCN,15.69,0.51,CN(C)NC=O
+COC1=CC=CC=C1,dichloromethane,-1.18,1.2,COC1=CC=CC=C1
+C=C(C)C,dichloromethane,1.11,0.98,C=C(C)C
+CC[Si](C1=CC=CO1)(CC)CC,dichloromethane,2.2,1.1,CC[Si](C1=CC=CO1)(CC)CC
+C/C=C/C=C/C,dichloromethane,1.17,1.1,C/C=C/C=C/C
+C/C(C)=C(O[Si](C)(C)C)\OC,dichloromethane,9.0,0.98,C/C(C)=C(O[Si](C)(C)C)\OC
+C1=CCCCC=C1,dichloromethane,0.06,1.1,C1=CCCCC=C1
+[H]OCC.[H]O[H],water-EtOH mix,6.28,0.87,[H]OCC.[H]O[H]
+C/C(C)=C/C[Sn](CCCC)(CCCC)CCCC,dichloromethane,4.74,1.15,C/C(C)=C/C[Sn](CCCC)(CCCC)CCCC
+NC(CC(C)C)C([O-])=O,water,14.01,0.52,NC(CC(C)C)C([O-])=O
+CN(C)C(=N)N(C)C,dichloromethane,13.58,0.77,CN(C)C(=N)N(C)C
+NC1=CC=CC=C1,MeCN,12.64,0.68,NC1=CC=CC=C1
+CCOC(=O)C=P(c1ccccc1)(c2ccccc2)c3ccccc3,DMSO,12.21,0.62,CCOC(=O)C=P(c1ccccc1)(c2ccccc2)c3ccccc3
+C[SiH](C)C1=CC=CC=C1,dichloromethane,3.55,0.75,C[SiH](C)C1=CC=CC=C1
+CN1CCCN2C1=NCCC2,dichloromethane,14.43,0.81,CN1CCCN2C1=NCCC2
+O=[N+]([CH-]C)[O-],water,11.25,0.52,O=[N+]([CH-]C)[O-]
+C=CN1C2=C(C=CC=C2)C3=C1C=CC=C3,dichloromethane,5.02,0.94,C=CN1C2=C(C=CC=C2)C3=C1C=CC=C3
+CC([CH-]C(C)=O)=O,water,13.73,0.64,CC([CH-]C(C)=O)=O
+COC1=CC=NC=C1,water,11.44,0.68,COC1=CC=NC=C1
+C12=CC=CN=C1NC=C2,MeCN,3.87,1.1,C12=CC=CN=C1NC=C2
+C1=CC=CN1,dichloromethane,4.63,1.0,C1=CC=CN1
+O=C([CH-][N+]1=CC=CC=C1)OCC,DMSO,26.71,0.37,O=C([CH-][N+]1=CC=CC=C1)OCC
+C=CC=C,dichloromethane,-0.87,1.0,C=CC=C
+[H]OCC.[H]O[H],water-EtOH mix,5.96,0.89,[H]OCC.[H]O[H]
+CC(C)[Si](C(C)C)(C(C)C)N1C=CC=C1,dichloromethane,3.12,0.93,CC(C)[Si](C(C)C)(C(C)C)N1C=CC=C1
+C=C/C=C\C,dichloromethane,0.66,1.0,C=C/C=C\C
+C1(N2CCCCC2)=CCCCC1,dichloromethane,13.36,0.81,C1(N2CCCCC2)=CCCCC1
+[H]OCC,EtOH-MeCN mix,5.77,0.92,[H]OCC
+CN1C2=C(C=CC=C2)C=C1C,dichloromethane,6.54,1.1,CN1C2=C(C=CC=C2)C=C1C
+C=C1CCCCCC1,dichloromethane,2.24,0.9,C=C1CCCCCC1
+NCCC,MeOH-MeCN mix,13.41,0.66,NCCC
+[H]N(C)C,water,17.12,0.5,[H]N(C)C
+CC(CC([CH-]1)=O)(C)CC1=O,DMSO,16.27,0.77,CC(CC([CH-]1)=O)(C)CC1=O
+[CH2-][N+]([O-])=O,DMSO,20.71,0.6,[CH2-][N+]([O-])=O
+O,water-HFIP mix,1.5,1.03,O
+CNN,MeCN,17.73,0.58,CNN
+CNO,MeCN,14.1,0.76,CNO
+O=C1CC(C)(C)CC([C-]1[I+]C2=CC=CC=C2)=O,dichloromethane,6.18,0.81,O=C1CC(C)(C)CC([C-]1[I+]C2=CC=CC=C2)=O
+CCCC[Sn](C1=CC=CO1)(CCCC)CCCC,dichloromethane,3.63,1.1,CCCC[Sn](C1=CC=CO1)(CCCC)CCCC
+C/C=C/C,dichloromethane,-2.45,1.1,C/C=C/C
+COC1=C(C=CN2)C2=CC=C1,MeCN,5.41,1.1,COC1=C(C=CN2)C2=CC=C1
+[C-]#[N+]CC1=CC=CC=C1,dichloromethane,4.9,0.74,[C-]#[N+]CC1=CC=CC=C1
+N#C[CH-][N+]1=CC=CC=C1,DMSO,25.94,0.42,N#C[CH-][N+]1=CC=CC=C1
+C=CC1=CC=C(C)C=C1,dichloromethane,1.7,1.06,C=CC1=CC=C(C)C=C1
+[H]O[H],water-MeCN mix,5.16,0.91,[H]O[H]
+C=C(O[Si](C)(C)C)OCCCC,dichloromethane,10.21,0.82,C=C(O[Si](C)(C)C)OCCCC
+B.CN(C)C,dichloromethane,7.97,0.75,B.CN(C)C
+[H]OC,MeOH-MeCN mix,6.67,0.9,[H]OC
+CC(C)(C)OC(N1C=CC2=C1C=CC=C2)=O,MeCN,1.68,1.26,CC(C)(C)OC(N1C=CC2=C1C=CC=C2)=O
+C/C=C\C,dichloromethane,-2.44,1.09,C/C=C\C
+C=CC[Si](C)(C)C(C)(C)C,dichloromethane,1.8,0.95,C=CC[Si](C)(C)C(C)(C)C
+C=C(C)C[Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,4.67,0.81,C=C(C)C[Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+O=S([CH-]C1=CC=C(C#N)C=C1)(C(F)(F)F)=O,DMSO,16.28,0.75,O=S([CH-]C1=CC=C(C#N)C=C1)(C(F)(F)F)=O
+CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OCCO2.[Li+],MeCN,11.23,0.77,CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OCCO2.[Li+]
+NC1=CC=C2C(C=CN2)=C1,MeCN,7.22,1.1,NC1=CC=C2C(C=CN2)=C1
+C=C(OCC)OCC,dichloromethane,9.81,0.81,C=C(OCC)OCC
+C=C(O[Si](C)(C(C)(C)C)C)OCCCC,dichloromethane,10.32,0.79,C=C(O[Si](C)(C(C)(C)C)C)OCCCC
+C1CN2CCC1CC2,MeCN,15.66,0.62,C1CN2CCC1CC2
+[N+]1(C2=CC=CC=C2)=[C-]N(C3=CC=CC=C3)N=C1C4=CC=CC=C4,THF,14.07,0.84,[N+]1(C2=CC=CC=C2)=[C-]N(C3=CC=CC=C3)N=C1C4=CC=CC=C4
+CC(CC([CH-]1)=O)(C)CC1=O,water,11.77,0.63,CC(CC([CH-]1)=O)(C)CC1=O
+[Fe].C#[O+].C#[O+],dichloromethane,8.2,0.69,[Fe].C#[O+].C#[O+]
+C/C=C(CC)\O[Si](C)(C)C,dichloromethane,5.58,1.0,C/C=C(CC)\O[Si](C)(C)C
+N#C[CH-]C#N,water,19.5,0.55,N#C[CH-]C#N
+CC#N,MeCN,2.23,0.84,CC#N
+C/C(C)=C/C,dichloromethane,0.65,1.17,C/C(C)=C/C
+[H]O[H],water-acetone mix,5.7,0.85,[H]O[H]
+C1=CCCC=C1,dichloromethane,0.67,1.1,C1=CCCC=C1
+O=C(C1=CC=CC=C1)[CH-][N+]2=CC=CC=C2,DMSO,19.46,0.58,O=C(C1=CC=CC=C1)[CH-][N+]2=CC=CC=C2
+C=CC,dichloromethane,-2.41,1.0,C=CC
+C=C(CCC(C)=C)C,dichloromethane,1.14,1.0,C=C(CCC(C)=C)C
+[N-]=[N+]=[N-],EtOH-MeCN mix,16.3,0.73,[N-]=[N+]=[N-]
+[H]C1([H])C2=C(C=CC=C2)CC3=C1C=CC=C3,dichloromethane,-0.86,0.92,[H]C1([H])C2=C(C=CC=C2)CC3=C1C=CC=C3
+C1CNCCC1,DMSO,17.19,0.71,C1CNCCC1
+O=C(C1=CC=CC=C1)[CH-][N+]2=CC=C(N(C)C)C=C2,DMSO,21.61,0.58,O=C(C1=CC=CC=C1)[CH-][N+]2=CC=C(N(C)C)C=C2
+N#C[CH-]C#N,DMSO,19.36,0.67,N#C[CH-]C#N
+C=C(OC1=CC=CC=C1)O[Si](C)(C)C,dichloromethane,8.23,0.81,C=C(OC1=CC=CC=C1)O[Si](C)(C)C
+[H]N1CCNCC1,water,17.22,0.5,[H]N1CCNCC1
+C=CCB1OC(C)(C)C(C)(C)O1,dichloromethane,-0.64,1.1,C=CCB1OC(C)(C)C(C)(C)O1
+C=C(CCCC(C)=C)C,dichloromethane,1.69,1.0,C=C(CCCC(C)=C)C
+N12C(CCCCC2)=NCCC1,MeCN,15.29,0.7,N12C(CCCCC2)=NCCC1
+CC1(C)OB(O1)C(C)(C)C,MeCN,2.9,0.98,CC1(C)OB(O1)C(C)(C)C
+C1(N2CCOCC2)=CCCCC1,dichloromethane,11.4,0.83,C1(N2CCOCC2)=CCCCC1
+N12CCC(CC2)CC1,MeCN,20.54,0.6,N12CCC(CC2)CC1
+CC1=CCC2CC1C2(C)C,dichloromethane,0.68,1.1,CC1=CCC2CC1C2(C)C
+N#C[O-],MeCN,13.6,0.84,N#C[O-]
+O=C(/C=C/N1CCOCC1)OCC,dichloromethane,8.52,0.8,O=C(/C=C/N1CCOCC1)OCC
+C/C=C(O[Si](C)(C)C)/O[Si](C)(C)C,dichloromethane,10.38,0.87,C/C=C(O[Si](C)(C)C)/O[Si](C)(C)C
+O=[N+]([CH-]C1=CC=CC=C1)[O-],water,12.05,0.53,O=[N+]([CH-]C1=CC=CC=C1)[O-]
+[H][Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,3.99,0.62,[H][Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+O=C(OCC)C(C(OCC)=O)=[N+]=[N-],dichloromethane,-0.35,0.93,O=C(OCC)C(C(OCC)=O)=[N+]=[N-]
+F[B-](F)(F)C(N1C(OC(C)(C)C)=O)=CC2=C1C=CC(OC)=C2.[K+],MeCN,7.1,1.18,F[B-](F)(F)C(N1C(OC(C)(C)C)=O)=CC2=C1C=CC(OC)=C2.[K+]
+O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-],water,13.23,0.52,O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-]
+[BH3-][N+]1=CC=CC=C1,dichloromethane,10.01,0.75,[BH3-][N+]1=CC=CC=C1
+C[Si](O/C1=C/CCCCCC1)(C)C,dichloromethane,6.77,1.0,C[Si](O/C1=C/CCCCCC1)(C)C
+C=CO[Si](C(C)C)(C(C)C)C(C)C,dichloromethane,3.44,0.94,C=CO[Si](C(C)C)(C(C)C)C(C)C
+O=[N+]([CH-]C1=CC=C(C)C=C1)[O-],DMSO,18.31,0.76,O=[N+]([CH-]C1=CC=C(C)C=C1)[O-]
+NC1=CC=NC=C1,water,12.19,0.66,NC1=CC=NC=C1
+CCCO[SiH](C)C,dichloromethane,2.4,0.75,CCCO[SiH](C)C
+C=CCCCC,dichloromethane,-2.77,1.41,C=CCCCC
+NC(CCC(N)=O)C([O-])=O,water,13.45,0.54,NC(CCC(N)=O)C([O-])=O
+O=C1c2ccccc2C(=O)[N-]1,DMSO,15.52,0.67,O=C1c2ccccc2C(=O)[N-]1
+C=C([Si]([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C)C,dichloromethane,-0.31,0.99,C=C([Si]([Si](C)(C)C)([Si](C)(C)C)[Si](C)(C)C)C
+C1=C\CCCC\C=C/1,dichloromethane,-0.5,1.1,C1=C\CCCC\C=C/1
+C1(N2CCCC2)=CC=NC=C1,water,12.39,0.66,C1(N2CCCC2)=CC=NC=C1
+CC1=CCCC1,dichloromethane,1.18,1.17,CC1=CCCC1
+O=C(C1=CC=CC=C1)[CH-][N+]2=C(C=CC=C3)C3=CC=C2,DMSO,19.38,0.5,O=C(C1=CC=CC=C1)[CH-][N+]2=C(C=CC=C3)C3=CC=C2
+C=C(C)CC(C)(C)C,dichloromethane,0.79,1.07,C=C(C)CC(C)(C)C
+[H]OCC,EtOH-MeCN mix,6.06,0.9,[H]OCC
+O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C2=CC=CC=C2)=O,DMSO,18.5,0.75,O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C2=CC=CC=C2)=O
+NCCO,DMSO,16.07,0.61,NCCO
+O=C([C-](C)C(OCC)=O)OCC,water,17.68,0.5,O=C([C-](C)C(OCC)=O)OCC
+CN(C1=CC=NC=C1)C,DMSO,14.8,0.67,CN(C1=CC=NC=C1)C
+C1(/C=N/CC2=CC=CC=C2)=CC=CC=C1,dichloromethane,7.9,0.76,C1(/C=N/CC2=CC=CC=C2)=CC=CC=C1
+C/C=C/C[Si](C)(C)C,dichloromethane,1.94,1.1,C/C=C/C[Si](C)(C)C
+NCCN,water,13.28,0.58,NCCN
+[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+],dichloromethane,1.33,0.9,[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+]
+C/C(C)=C/C[Si](C)(C)C,dichloromethane,0.9,1.17,C/C(C)=C/C[Si](C)(C)C
+CC(O[Si](C1=C(F)C(F)=C(F)C(F)=C1F)(C2=C(F)C(F)=C(F)C(F)=C2F)C3=C(F)C(F)=C(F)C(F)=C3F)=C,dichloromethane,0.58,0.91,CC(O[Si](C1=C(F)C(F)=C(F)C(F)=C1F)(C2=C(F)C(F)=C(F)C(F)=C2F)C3=C(F)C(F)=C(F)C(F)=C3F)=C
+CC1=NC=CN1,water,9.45,0.54,CC1=NC=CN1
+CNNC,MeCN,16.15,0.68,CNNC
+[O-]/C(C1=[N+](C2=CC=CC=C2)N=C(C3=CC=CC=C3)N1C4=CC=CC=C4)=C(C5=CC=CC=C5)/C,THF,16.73,0.63,[O-]/C(C1=[N+](C2=CC=CC=C2)N=C(C3=CC=CC=C3)N1C4=CC=CC=C4)=C(C5=CC=CC=C5)/C
+C=C(C=C)O[Si](C)(C)C,dichloromethane,4.83,0.9,C=C(C=C)O[Si](C)(C)C
+C[Si](OC1=CC=CO1)(C)C,dichloromethane,7.22,1.0,C[Si](OC1=CC=CO1)(C)C
+O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C(F)(F)F)=O,DMSO,14.49,0.86,O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C(F)(F)F)=O
+[H]OC,MeOH-MeCN mix,7.2,0.89,[H]OC
+C=C(C1=CC=CC=C1)C[Si](C)(C)C,dichloromethane,5.38,0.89,C=C(C1=CC=CC=C1)C[Si](C)(C)C
+C=C(C)C[Si](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,4.17,0.79,C=C(C)C[Si](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+CC([CH-]C(OCC)=O)=O,DMSO,18.82,0.69,CC([CH-]C(OCC)=O)=O
+C/C(C)=C/O[Si](C)(C)C,dichloromethane,3.94,1.0,C/C(C)=C/O[Si](C)(C)C
+O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-],DMSO,16.29,0.75,O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-]
+F[B-](F)(F)C1=COC=C1.[K+],MeCN,6.83,0.93,F[B-](F)(F)C1=COC=C1.[K+]
+[H]/C([H])=N\N(C)C,dichloromethane,19.31,0.46,[H]/C([H])=N\N(C)C
+O=C1[C-](C(OCC)=O)CCCCC1,DMSO,19.53,0.83,O=C1[C-](C(OCC)=O)CCCCC1
+[H][B-]([H])([H])[H],DMSO,14.94,0.79,[H][B-]([H])([H])[H]
+O,water-HFIP mix,0.34,0.96,O
+O,water-HFIP mix,-1.62,1.1,O
+[H][Sn](CCCC)(CCCC)CCCC,dichloromethane,9.96,0.55,[H][Sn](CCCC)(CCCC)CCCC
+C=C1CCCCCCC1,dichloromethane,3.16,0.9,C=C1CCCCCCC1
+C/C=C\C1=CC=CC=C1,dichloromethane,-1.07,1.1,C/C=C\C1=CC=CC=C1
+[H]O[H],water-MeCN mix,4.56,0.94,[H]O[H]
+[H]OCC.[H]O[H],water-EtOH mix,5.38,0.91,[H]OCC.[H]O[H]
+CC([CH-]C(OCC)=O)=O,water,15.99,0.62,CC([CH-]C(OCC)=O)=O
+C1=CC=CO1,dichloromethane,1.33,1.29,C1=CC=CO1
+COC(C=C1)=CC=C1P(C2=CC=C(OC)C=C2)C3=CC=C(OC)C=C3,dichloromethane,16.17,0.62,COC(C=C1)=CC=C1P(C2=CC=C(OC)C=C2)C3=CC=C(OC)C=C3
+C[Si](C1CCC=C1)(C)C,dichloromethane,1.77,1.1,C[Si](C1CCC=C1)(C)C
+NC1=CC=NC=C1,dichloromethane,15.2,0.67,NC1=CC=NC=C1
+O=C(C)[CH-]C1=CC=CC=C1,DMSO,24.99,0.6,O=C(C)[CH-]C1=CC=CC=C1
+[H][O-],water-MeCN mix,10.19,0.62,[H][O-]
+[H][C-](C(OCC)=O)C#N,DMSO,19.62,0.67,[H][C-](C(OCC)=O)C#N
+C[Si](OC1=CCCCCC1)(C)C,dichloromethane,6.62,1.0,C[Si](OC1=CCCCCC1)(C)C
+[H]O[H],water-MeCN mix,5.02,0.89,[H]O[H]
+CC1=C(O[Si](C)(C)C)OCC1,dichloromethane,11.5,0.91,CC1=C(O[Si](C)(C)C)OCC1
+O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-],water,14.25,0.46,O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-]
+NC1=CC=C(OC)C=C1,water,14.28,0.68,NC1=CC=C(OC)C=C1
+O=C(C)[CH-][N+]1=CC=CC=C1,DMSO,20.24,0.6,O=C(C)[CH-][N+]1=CC=CC=C1
+O=c1cc[nH]c(=O)[nH]1,water,8.54,0.77,O=c1cc[nH]c(=O)[nH]1
+C12=CC=CC=C1C=C[CH-]2.[Li+],DMSO,23.66,0.7,C12=CC=CC=C1C=C[CH-]2.[Li+]
+[H]O[H],water-MeCN mix,5.04,0.89,[H]O[H]
+N#C[CH-]C(OCC)=O,water,15.57,0.58,N#C[CH-]C(OCC)=O
+O=C([C-](C)C(OCC)=O)OCC,DMSO,21.13,0.68,O=C([C-](C)C(OCC)=O)OCC
+O,water-HFIP mix,0.96,0.93,O
+CC1=CC(OC)=CC=C1,dichloromethane,0.13,1.27,CC1=CC(OC)=CC=C1
+C=C(C)/C=C/C,dichloromethane,3.09,1.0,C=C(C)/C=C/C
+C=C(C)C[Si](Cl)(Cl)Cl,dichloromethane,-0.57,0.95,C=C(C)C[Si](Cl)(Cl)Cl
+C=C/C=C(C)/C,dichloromethane,2.6,1.0,C=C/C=C(C)/C
+[H]OC,MeOH,7.54,0.92,[H]OC
+[N-]=[N+]=[N-],nPrOH-MeCN mix,16.7,0.73,[N-]=[N+]=[N-]
+OC1=CC=C2C(C=CN2)=C1,MeCN,6.44,1.1,OC1=CC=C2C(C=CN2)=C1
+CC1=C(C(OCC)=O)CC(C(OCC)=O)=C(C)N1,dichloromethane,9.0,0.9,CC1=C(C(OCC)=O)CC(C(OCC)=O)=C(C)N1
+CN(C)c1ccncc1,THF,15.9,0.66,CN(C)c1ccncc1
+O,water-HFIP mix,-0.1,0.97,O
+[Cl-],MeOH,12.9,0.6,[Cl-]
+O=C([CH-]C(OCC)=O)OCC,water,16.15,0.66,O=C([CH-]C(OCC)=O)OCC
+CC(C)[O-],iPrOH-MeCN mix,17.71,0.58,CC(C)[O-]
+NCC1=CC=CC=C1,water,13.44,0.55,NCC1=CC=CC=C1
+C12=CC=CC=CC1=CC=C2,MeCN,6.66,1.02,C12=CC=CC=CC1=CC=C2
+C12=CC(/C=C3C=CC=C\3)=CC4=C1N(CCC2)CCC4,MeCN,7.79,1.06,C12=CC(/C=C3C=CC=C\3)=CC4=C1N(CCC2)CCC4
+C=C(C)C(C)C,dichloromethane,0.65,1.0,C=C(C)C(C)C
+[S-]C#N,MeCN,12.13,0.6,[S-]C#N
+C[SiH2]c1ccccc1,dichloromethane,2.13,0.73,C[SiH2]c1ccccc1
+C1(/CCCCC1)=N\C2=CC=CC=C2,dichloromethane,8.8,1.0,C1(/CCCCC1)=N\C2=CC=CC=C2
+O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-],water,13.58,0.52,O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-]
+CC(C)O,iPrOH-MeCN mix,6.49,0.96,CC(C)O
+O=C(C1=CC=CC=C1)[CH-][N+]2=CC=CC(Cl)=C2,DMSO,17.98,0.63,O=C(C1=CC=CC=C1)[CH-][N+]2=CC=CC(Cl)=C2
+CC(S1)=CC=C1[B-]2(C3=CC=CC=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,7.24,0.83,CC(S1)=CC=C1[B-]2(C3=CC=CC=C3)OC(C)(C)C(C)(C)O2.[Li+]
+C=C(C)CC(C)=C,dichloromethane,0.54,1.0,C=C(C)CC(C)=C
+[H]O[H],water-TFE mix,3.2,0.88,[H]O[H]
+[N-]C#N,DMSO,20.33,0.64,[N-]C#N
+NCCC,DMSO,15.7,0.64,NCCC
+[H]OC,MeOH-MeCN mix,7.45,0.87,[H]OC
+C=C(C)C(C)=C,dichloromethane,1.17,1.0,C=C(C)C(C)=C
+[H]O[H],water-TFE mix,3.42,0.9,[H]O[H]
+[CH2-][N+]([O-])=O,water,12.06,0.53,[CH2-][N+]([O-])=O
+[H][Ge](CCCC)(CCCC)CCCC,dichloromethane,5.92,0.73,[H][Ge](CCCC)(CCCC)CCCC
+C=C1CCCCCCCC1,dichloromethane,2.57,0.9,C=C1CCCCCCCC1
+O=[N+]([CH-]C1=CC=C(C)C=C1)[O-],water,13.09,0.5,O=[N+]([CH-]C1=CC=C(C)C=C1)[O-]
+[N-]=[N+]=[N-],MeOH-MeCN mix,15.01,0.8,[N-]=[N+]=[N-]
+NCC1=CC=CC=C1,MeOH-MeCN mix,13.46,0.62,NCC1=CC=CC=C1
+NC1=CC=C(OC)C=C1,MeCN,13.42,0.73,NC1=CC=C(OC)C=C1
+CC(S1)=CC=C1[B-]2(C3=CC=C(OC)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,7.51,0.87,CC(S1)=CC=C1[B-]2(C3=CC=C(OC)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+O=C1OC(C)CC([C-]1[I+]C2=CC=CC=C2)=O,dichloromethane,4.67,0.92,O=C1OC(C)CC([C-]1[I+]C2=CC=CC=C2)=O
+CN(C)N,MeCN,22.41,0.45,CN(C)N
+C1=CCC=CC1,dichloromethane,0.09,0.98,C1=CCC=CC1
+NCC(OCC)=O,DMSO,14.3,0.67,NCC(OCC)=O
+[H]O[H],water-TFE mix,4.78,0.83,[H]O[H]
+CC1=CC=NC=C1,dichloromethane,13.7,0.67,CC1=CC=NC=C1
+C[Si](OC1=C(O[Si](C)(C)C)CCCC1)(C)C,dichloromethane,4.46,1.15,C[Si](OC1=C(O[Si](C)(C)C)CCCC1)(C)C
+[H]OCC.[H]O[H],water-EtOH mix,5.81,0.9,[H]OCC.[H]O[H]
+O=C(C1=CC=CC=C1)[CH-][N+]2=CC=C(C=CC=C3)C3=C2,DMSO,20.08,0.57,O=C(C1=CC=CC=C1)[CH-][N+]2=CC=C(C=CC=C3)C3=C2
+O=C([C-](C(OCC)=O)C)C,DMSO,19.58,0.73,O=C([C-](C(OCC)=O)C)C
+C/C=C\O[Si](C(C)C)(C(C)C)C(C)C,dichloromethane,3.87,1.0,C/C=C\O[Si](C(C)C)(C(C)C)C(C)C
+Cn1ccnc1,water,9.91,0.55,Cn1ccnc1
+F[B-](F)(F)C1=CC(C=CN2C)=C2C=C1.[K+],MeCN,8.77,1.09,F[B-](F)(F)C1=CC(C=CN2C)=C2C=C1.[K+]
+C=C1CCCCCCCCCC1,dichloromethane,2.33,0.9,C=C1CCCCCCCCCC1
+[H]O[H],water-TFE mix,2.93,0.88,[H]O[H]
+CN(C1=CC=NC=C1)C,DMF,14.9,0.67,CN(C1=CC=NC=C1)C
+NC(CC1=CC=CC=C1)C([O-])=O,water,14.12,0.53,NC(CC1=CC=CC=C1)C([O-])=O
+C/N=C/C1=CC=CC=C1,dichloromethane,8.6,0.77,C/N=C/C1=CC=CC=C1
+CCCC[Si](C1=CC=CO1)(CCCC)CCCC,dichloromethane,2.37,1.1,CCCC[Si](C1=CC=CO1)(CCCC)CCCC
+[H]OCC,EtOH-MeCN mix,6.94,0.9,[H]OCC
+N#C[CH-]C1=CC=C(C#N)C=C1,DMSO,25.11,0.54,N#C[CH-]C1=CC=C(C#N)C=C1
+C1(C2=CC=CC=C2)=NCCCN1,dichloromethane,14.62,0.72,C1(C2=CC=CC=C2)=NCCCN1
+OCCNCCO,MeOH-MeCN mix,13.71,0.67,OCCNCCO
+NCCO,MeOH-MeCN mix,13.23,0.65,NCCO
+C1(N2CCCC2)=CC=NC=C1,dichloromethane,15.9,0.67,C1(N2CCCC2)=CC=NC=C1
+CC1=CC=C2C(C=CN2)=C1,MeCN,6.0,1.1,CC1=CC=C2C(C=CN2)=C1
+C/C(C)=C1C=CC=C\1,MeCN,3.93,0.88,C/C(C)=C1C=CC=C\1
+O,water-HFIP mix,1.65,0.96,O
+[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C,DMSO,14.4,0.64,[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C
+CC1(C)O[B-](C2=CC=CC=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+],MeCN,10.97,0.63,CC1(C)O[B-](C2=CC=CC=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+]
+COC1=CC=NC=C1,dichloromethane,13.7,0.67,COC1=CC=NC=C1
+[H][B-]([H])([H])[H],DMSO,14.74,0.81,[H][B-]([H])([H])[H]
+FC(F)(F)C(=O)[N-],DMSO,15.7,0.71,FC(F)(F)C(=O)[N-]
+C1=CC=CS1,dichloromethane,-1.01,1.1,C1=CC=CS1
+O=[N+]([C-](C)C)[O-],DMSO,20.61,0.69,O=[N+]([C-](C)C)[O-]
+O=C([CH-]C1=CC=CC=C1)OCC,DMSO,27.54,0.57,O=C([CH-]C1=CC=CC=C1)OCC
+O=C([CH-]C1=CC=C([N+]([O-])=O)C=C1)OCC,DMSO,20.0,0.71,O=C([CH-]C1=CC=C([N+]([O-])=O)C=C1)OCC
+C1([SiH](C2=CC=CC=C2)C3=CC=CC=C3)=CC=CC=C1,dichloromethane,2.65,0.72,C1([SiH](C2=CC=CC=C2)C3=CC=CC=C3)=CC=CC=C1
+[H]C(C1=CC=CC=C1)=[N+]=[N-],dichloromethane,9.35,0.83,[H]C(C1=CC=CC=C1)=[N+]=[N-]
+C[Si](C)CCl,dichloromethane,0.8,0.73,C[Si](C)CCl
+CC(OC([CH-]1)=O)(C)OC1=O,DMSO,13.91,0.86,CC(OC([CH-]1)=O)(C)OC1=O
+C12=CC=CC=C1C=C[CH-]2.[Na+],DMSO,23.74,0.71,C12=CC=CC=C1C=C[CH-]2.[Na+]
+C[Sn](C1C2=CC=CC=C2C=C1)(C)C,dichloromethane,6.68,0.81,C[Sn](C1C2=CC=CC=C2C=C1)(C)C
+NO,water,11.41,0.55,NO
+C=C(C)CC1=CC=CC=C1,dichloromethane,0.25,1.0,C=C(C)CC1=CC=CC=C1
+[H]OCC,EtOH-MeCN mix,5.19,0.96,[H]OCC
+[O-]CCC,nPrOH,16.03,0.7,[O-]CCC
+CC1=CC2=CC(OC)=CC=C2N1,MeCN,7.26,1.1,CC1=CC2=CC(OC)=CC=C2N1
+O=C([O-])c1ccc([N+](=O)[O-])cc1,acetone,18.74,0.68,O=C([O-])c1ccc([N+](=O)[O-])cc1
+F[B-](F)(F)C1=CC=CO1.[K+],MeCN,5.99,0.79,F[B-](F)(F)C1=CC=CO1.[K+]
+C/C=C\C[Si](C)(C)C,dichloromethane,1.69,1.1,C/C=C\C[Si](C)(C)C
+C=C(C)C(C)(C)C,dichloromethane,0.06,1.07,C=C(C)C(C)(C)C
+CCOC(=O)C=[N+]=[N-],dichloromethane,4.91,0.95,CCOC(=O)C=[N+]=[N-]
+C=C(O[Si](C)(C)C)C(C)(C)C,dichloromethane,3.78,0.79,C=C(O[Si](C)(C)C)C(C)(C)C
+C[O-],MeOH,15.78,0.56,C[O-]
+ClC1=CC=C2C(C=C(C)N2)=C1,MeCN,6.08,1.1,ClC1=CC=C2C(C=C(C)N2)=C1
+N12C(CCC2)=NCCC1,MeCN,16.28,0.67,N12C(CCC2)=NCCC1
+Cc1ccnc2ccccc12,MeCN,11.6,0.62,Cc1ccnc2ccccc12
+C1=CC=CCC=C1,dichloromethane,0.52,0.97,C1=CC=CCC=C1
+C[Si](C1=CC=CO1)(C)C,dichloromethane,2.16,1.1,C[Si](C1=CC=CO1)(C)C
+P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3,dichloromethane,5.51,0.76,P(OC1=CC=CC=C1)(OC2=CC=CC=C2)OC3=CC=CC=C3
+O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-],MeOH-MeCN mix,14.75,0.71,O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-]
+C=CC[Si](CC)(CC)CC,dichloromethane,1.93,0.95,C=CC[Si](CC)(CC)CC
+[H]O[H],water-TFE mix,3.57,0.89,[H]O[H]
+NC(CC(N)=O)C([O-])=O,water,13.03,0.53,NC(CC(N)=O)C([O-])=O
+F[B-](F)(F)C(N1C(OC(C)(C)C)=O)=CC2=C1C=CC=C2.[K+],MeCN,6.46,0.96,F[B-](F)(F)C(N1C(OC(C)(C)C)=O)=CC2=C1C=CC=C2.[K+]
+C[Si](OC1=CCCC1)(C)C,dichloromethane,6.57,0.93,C[Si](OC1=CCCC1)(C)C
+C=CC[Si](CCCC)(CCCC)CCCC,dichloromethane,2.09,0.95,C=CC[Si](CCCC)(CCCC)CCCC
+[H]OCC,EtOH,7.44,0.9,[H]OCC
+O=[N+]([CH-]C1=CC=CC=C1)[O-],DMSO,18.29,0.71,O=[N+]([CH-]C1=CC=CC=C1)[O-]
+NN,MeOH-MeCN mix,13.47,0.7,NN
+C[C-](C#N)C1=CC=C([N+]([O-])=O)C=C1,DMSO,19.61,0.6,C[C-](C#N)C1=CC=C([N+]([O-])=O)C=C1
+C[Si](C1=CC=CS1)(C)C,dichloromethane,-0.8,1.0,C[Si](C1=CC=CS1)(C)C
+[H]N(C(C)C)[H],water,12.0,0.56,[H]N(C(C)C)[H]
+NCCC([O-])=O,water,13.26,0.58,NCCC([O-])=O
+F[B-](F)(F)C1=CN(C(OC(C)(C)C)=O)C2=C1C=CC=C2.[K+],MeCN,4.06,0.79,F[B-](F)(F)C1=CN(C(OC(C)(C)C)=O)C2=C1C=CC=C2.[K+]
+CC(S1)=CC=C1[B-]2(C3=CC=C(Cl)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,6.77,0.88,CC(S1)=CC=C1[B-]2(C3=CC=C(Cl)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+C/C=C/C([H])([H])/C=C/C,dichloromethane,-0.74,0.99,C/C=C/C([H])([H])/C=C/C
+[S-]CC([O-])=O,water,22.62,0.43,[S-]CC([O-])=O
+CC1=CC=C2C(C=C(C)N2)=C1,MeCN,7.22,1.1,CC1=CC=C2C(C=C(C)N2)=C1
+CN(C)C1=CC=C(/C=C2C=CC=C\2)C=C1,MeCN,6.72,0.87,CN(C)C1=CC=C(/C=C2C=CC=C\2)C=C1
+CC(S1)=CC=C1[B-]2(C3=CC=C(C)S3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,7.67,0.87,CC(S1)=CC=C1[B-]2(C3=CC=C(C)S3)OC(C)(C)C(C)(C)O2.[Li+]
+C=C1CCCCCCCCC1,dichloromethane,2.82,0.9,C=C1CCCCCCCCC1
+C=C1CCCCCCCCCCCCCC1,dichloromethane,1.69,0.9,C=C1CCCCCCCCCCCCCC1
+[N-]=[N+]=[N-],iPrOH-MeCN mix,17.07,0.71,[N-]=[N+]=[N-]
+N#CC=P(c1ccccc1)(c2ccccc2)c3ccccc3,dichloromethane,12.29,0.75,N#CC=P(c1ccccc1)(c2ccccc2)c3ccccc3
+CC(=O)[O-],MeCN,16.9,0.75,CC(=O)[O-]
+C[SiH](C)c1ccc(Cl)cc1,dichloromethane,3.05,0.73,C[SiH](C)c1ccc(Cl)cc1
+C/C(C)=N/C1=CC=CC=C1,dichloromethane,9.53,0.85,C/C(C)=N/C1=CC=CC=C1
+CN(CC1)CC=C1N2CCOCC2,dichloromethane,12.03,0.8,CN(CC1)CC=C1N2CCOCC2
+N1=CC=CC=C1,dichloromethane,12.9,0.67,N1=CC=CC=C1
+CC(S1)=CC=C1[B-]2(C3=CC=C(C)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,6.98,0.93,CC(S1)=CC=C1[B-]2(C3=CC=C(C)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+C/C=C\N1CCOCC1,dichloromethane,12.26,0.8,C/C=C\N1CCOCC1
+C1CNCCC1,MeOH-MeCN mix,15.63,0.64,C1CNCCC1
+CC1=C(N=[C])C(C)=CC=C1,dichloromethane,4.59,0.87,CC1=C(N=[C])C(C)=CC=C1
+NCC(OC)=O,water,12.08,0.6,NCC(OC)=O
+CC1(C)CC(=O)[N-]C(=O)C1,DMSO,17.52,0.63,CC1(C)CC(=O)[N-]C(=O)C1
+CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OCC(C)(C)CO2.[Li+],MeCN,10.13,0.91,CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OCC(C)(C)CO2.[Li+]
+CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+],MeCN,7.15,0.77,CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+]
+[H]N(CC)[H],water,12.87,0.58,[H]N(CC)[H]
+N1(CCCC1)C2=CCCCC2,dichloromethane,14.91,0.86,N1(CCCC1)C2=CCCCC2
+FC1=C([Si](C2=C(C(F)=C(C(F)=C2F)F)F)(OC3=CCCO3)C4=C(C(F)=C(C(F)=C4F)F)F)C(F)=C(F)C(F)=C1F,dichloromethane,8.16,0.67,FC1=C([Si](C2=C(C(F)=C(C(F)=C2F)F)F)(OC3=CCCO3)C4=C(C(F)=C(C(F)=C4F)F)F)C(F)=C(F)C(F)=C1F
+CN(C1=CC=NC=C1)C,dichloromethane,15.8,0.66,CN(C1=CC=NC=C1)C
+NC1=CC=C(C)C=C1,water,13.0,0.79,NC1=CC=C(C)C=C1
+O=C([O-])CCCN,water,13.55,0.56,O=C([O-])CCCN
+[OH-],water,10.47,0.61,[OH-]
+CC([CH-]C(C)=O)=O,DMSO,17.64,0.73,CC([CH-]C(C)=O)=O
+[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+],dichloromethane,-1.11,0.92,[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+]
+[H]OC,MeOH-MeCN mix,6.38,0.92,[H]OC
+NCC(F)(F)F,MeOH-MeCN mix,10.2,0.92,NCC(F)(F)F
+NC(C(C)C)C([O-])=O,water,13.65,0.57,NC(C(C)C)C([O-])=O
+CC(=O)[N-]C(=O)C,DMSO,16.05,0.7,CC(=O)[N-]C(=O)C
+O=c1cc[nH]c(=O)[nH]1,DMSO,16.36,0.69,O=c1cc[nH]c(=O)[nH]1
+C1(C=CC=C2)=C2OC(C=CC=C3)=C3C1,dichloromethane,0.64,0.97,C1(C=CC=C2)=C2OC(C=CC=C3)=C3C1
+[H]O[H],water-TFE mix,5.04,0.9,[H]O[H]
+[O-]CCC,nPrOH-MeCN mix,16.73,0.63,[O-]CCC
+CN(C)N,MeCN,11.72,0.73,CN(C)N
+[H][C-](C(OCC)=O)C(OCC)=O,DMSO,20.22,0.65,[H][C-](C(OCC)=O)C(OCC)=O
+CC(C)P(C(C)C)C(C)C,dichloromethane,13.37,0.7,CC(C)P(C(C)C)C(C)C
+O=[N+]([CH-]C)[O-],MeOH-MeCN mix,13.41,0.67,O=[N+]([CH-]C)[O-]
+C=C(C)O[Si](C(C)C)(C(C)C)C(C)C,dichloromethane,5.38,0.85,C=C(C)O[Si](C(C)C)(C(C)C)C(C)C
+CC(C=[N+]=[N-])=O,dichloromethane,3.96,0.91,CC(C=[N+]=[N-])=O
+C=C/C=C/O[Si](C)(C)C,dichloromethane,4.6,0.9,C=C/C=C/O[Si](C)(C)C
+[H]OCC,EtOH-MeCN mix,6.37,0.9,[H]OCC
+FC(F)(F)C(=O)[N-],DMSO,15.81,0.64,FC(F)(F)C(=O)[N-]
+O=C(C)N1CCN=C1C,dichloromethane,10.03,0.75,O=C(C)N1CCN=C1C
+O=C(C1=CC=CC=C1)[CH-]C(C2=CC=CC=C2)=O,DMSO,17.46,0.65,O=C(C1=CC=CC=C1)[CH-]C(C2=CC=CC=C2)=O
+O=C([C-](C(OCC)=O)C(OCC)=O)OCC,DMSO,15.33,0.72,O=C([C-](C(OCC)=O)C(OCC)=O)OCC
+CCCC1C=CCC1,dichloromethane,-0.88,0.94,CCCC1C=CCC1
+C=CC[Si](C)(Cl)C,dichloromethane,-0.57,1.06,C=CC[Si](C)(Cl)C
+NC(CC([O-])=O)C([O-])=O,water,13.81,0.53,NC(CC([O-])=O)C([O-])=O
+N#C[CH-]C1=CC=C(C(F)(F)F)C=C1,DMSO,27.28,0.5,N#C[CH-]C1=CC=C(C(F)(F)F)C=C1
+O=[N+]([CH-]C(OCC)=O)[O-],DMSO,15.24,0.74,O=[N+]([CH-]C(OCC)=O)[O-]
+C/C=C/N1CCOCC1,dichloromethane,12.06,0.8,C/C=C/N1CCOCC1
+C=C(C)CC,dichloromethane,1.0,1.0,C=C(C)CC
+[H]O[H],water-MeCN mix,5.02,0.9,[H]O[H]
+ClC1=CC=NC=C1,water,10.5,0.73,ClC1=CC=NC=C1
+CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)[H])OC1(C)C.[Li+],MeCN,7.68,0.78,CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)[H])OC1(C)C.[Li+]
+O=C1OC(C)(C)OC([C-]1[I+]C2=CC=CC=C2)=O,dichloromethane,4.36,1.06,O=C1OC(C)(C)OC([C-]1[I+]C2=CC=CC=C2)=O
+C12C=CC(C2)CC1,dichloromethane,-0.25,1.09,C12C=CC(C2)CC1
+CC1=CC=NC=C1,water,11.1,0.75,CC1=CC=NC=C1
+CC(=O)[O-],aq acetone,12.71,0.68,CC(=O)[O-]
+O=C([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,MeCN,14.9,0.71,O=C([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1
+C1(C2=CC=CC=C2)=NCCN1,dichloromethane,12.31,0.77,C1(C2=CC=CC=C2)=NCCN1
+N1(CC2=CC=CC=C2)CCN=C1C3=CC=CC=C3,dichloromethane,13.11,0.83,N1(CC2=CC=CC=C2)CCN=C1C3=CC=CC=C3
+NC(CCCNC(N)=[NH2+])C([O-])=O,water,12.96,0.57,NC(CCCNC(N)=[NH2+])C([O-])=O
+CC1=NCCS1,dichloromethane,10.2,0.71,CC1=NCCS1
+CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,6.24,1.0,CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+O[O-],water,15.4,0.55,O[O-]
+C=C(CCCCC(C)=C)C,dichloromethane,1.58,1.0,C=C(CCCCC(C)=C)C
+[H]OCC.[H]O[H],water-EtOH mix,6.68,0.85,[H]OCC.[H]O[H]
+CC1=C(CC)C(C)=CN1,MeCN,11.63,0.95,CC1=C(CC)C(C)=CN1
+O=c1cccc[nH]1,DMSO,19.91,0.6,O=c1cccc[nH]1
+CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC4=C(C=CC=C4)O2.[Li+],MeCN,6.5,0.77,CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC4=C(C=CC=C4)O2.[Li+]
+CC(C=C1)=CC=C1[CH-]S(=O)(C(F)(F)F)=O,DMSO,19.35,0.67,CC(C=C1)=CC=C1[CH-]S(=O)(C(F)(F)F)=O
+NC(CCSC)C([O-])=O,water,13.16,0.58,NC(CCSC)C([O-])=O
+O=C([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,acetone,18.8,0.62,O=C([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1
+C=CC[Si](CCCCCC)(CCCCCC)CCCCCC,dichloromethane,2.11,0.95,C=CC[Si](CCCCCC)(CCCCCC)CCCCCC
+CC1=CC2=CC=CC=C2N1,MeCN,6.91,1.1,CC1=CC2=CC=CC=C2N1
+[H][Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,5.64,0.59,[H][Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+O=C([O-])CNC(CNC(CN)=O)=O,water,12.26,0.63,O=C([O-])CNC(CNC(CN)=O)=O
+CC(=O)[O-],aq acetone,12.5,0.6,CC(=O)[O-]
+F[B-](F)(F)C(N1C)=CC2=C1C=CC=C2.[K+],MeCN,9.55,1.16,F[B-](F)(F)C(N1C)=CC2=C1C=CC=C2.[K+]
+C12=CC=CC=C1C=C[CH-]2.[K+],DMSO,24.16,0.68,C12=CC=CC=C1C=C[CH-]2.[K+]
+C=CC[Si](C(C)C)(C(C)C)C(C)C,dichloromethane,2.04,0.95,C=CC[Si](C(C)C)(C(C)C)C(C)C
+[H]N(C)[H],water,13.85,0.53,[H]N(C)[H]
+CCN(CC)CC,dichloromethane,17.3,0.52,CCN(CC)CC
+C=C1CCCCCCCCCCC1,dichloromethane,1.52,0.9,C=C1CCCCCCCCCCC1
+CCCCCC[Si](CCCCCC)(CCCCCC)C1CCC=C1,dichloromethane,1.98,1.1,CCCCCC[Si](CCCCCC)(CCCCCC)C1CCC=C1
+[H]O[H],water-MeCN mix,5.05,0.9,[H]O[H]
+[H]OC,MeOH-MeCN mix,7.01,0.91,[H]OC
+C1CCC2=NCCCN2CC1,THF,16.12,0.67,C1CCC2=NCCCN2CC1
+O=C([CH-]C1=CC=NC=C1)OCC,DMSO,23.27,0.7,O=C([CH-]C1=CC=NC=C1)OCC
+CC1(C)CO[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C3=CC=CC=C3)OC1.[Li+],MeCN,11.29,0.76,CC1(C)CO[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C3=CC=CC=C3)OC1.[Li+]
+[H][C@@](C1=CN=CC=C1)(CCC2)N2C,dichloromethane,10.4,1.04,[H][C@@](C1=CN=CC=C1)(CCC2)N2C
+C1(C=CC=C2)=C2CC=CC1,dichloromethane,-0.07,1.03,C1(C=CC=C2)=C2CC=CC1
+C[C-](C#N)C1=CC=CC=C1,DMSO,28.95,0.58,C[C-](C#N)C1=CC=CC=C1
+COC(C=C1)=CC=C1N2C=C(C(N)=O)CC=C2,dichloromethane,8.11,0.92,COC(C=C1)=CC=C1N2C=C(C(N)=O)CC=C2
+Cc1ccc(S(=O)(=O)[N-])cc1,DMSO,17.14,0.6,Cc1ccc(S(=O)(=O)[N-])cc1
+C=COCC,dichloromethane,3.92,0.9,C=COCC
+CC(OC([CH-]1)=O)(C)OC1=O,water,12.06,0.66,CC(OC([CH-]1)=O)(C)OC1=O
+[H][B-]([H])([H])[H],DMSO,15.14,0.77,[H][B-]([H])([H])[H]
+[H][Mo].C#[O+].C#[O+].C#[O+],dichloromethane,7.8,0.8,[H][Mo].C#[O+].C#[O+].C#[O+]
+N1(CCCCC1)C2=CCCC2,dichloromethane,15.06,0.82,N1(CCCCC1)C2=CCCC2
+C1CNCCO1,DMSO,16.96,0.67,C1CNCCO1
+C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)C1=CC=CC=C1,dichloromethane,4.8,0.86,C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)C1=CC=CC=C1
+[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)CCN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C,THF,15.92,0.72,[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)CCN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C
+[Cl-],TFE,10.3,0.6,[Cl-]
+[Br-],water-EtOH mix,14.5,0.6,[Br-]
+CC[O-],EtOH-MeCN mix,16.08,0.62,CC[O-]
+O=S([CH-]C1=CC=C(C#N)C=C1)(C(F)(F)F)=O,MeOH-MeCN mix,19.49,0.63,O=S([CH-]C1=CC=C(C#N)C=C1)(C(F)(F)F)=O
+O=[N+]([C-](C)C)[O-],water,10.69,0.56,O=[N+]([C-](C)C)[O-]
+[H]N(CC)CC,water,14.68,0.53,[H]N(CC)CC
+O=C1C=CNC=C1,water,14.76,0.48,O=C1C=CNC=C1
+C=CC[Si](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,-0.13,1.21,C=CC[Si](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+C/C(C)=C(C)/C,dichloromethane,-1.0,1.4,C/C(C)=C(C)/C
+C1=CCCC1,dichloromethane,-1.55,1.1,C1=CCCC1
+[O-]N=O,MeCN,17.2,0.72,[O-]N=O
+N#C[CH-]C#N,MeOH-MeCN mix,18.21,0.69,N#C[CH-]C#N
+COC1=CC=C2C(C=CN2)=C1,dichloromethane,6.22,1.12,COC1=CC=C2C(C=CN2)=C1
+CC(C)[Si](C(C)C)C(C)C,dichloromethane,2.93,0.73,CC(C)[Si](C(C)C)C(C)C
+BrC1=CC=C([CH-]C(OCC)=O)C=C1,DMSO,27.62,0.53,BrC1=CC=C([CH-]C(OCC)=O)C=C1
+CC1=C(C)C([H])([H])C(C)=C(C)C1,dichloromethane,4.27,0.86,CC1=C(C)C([H])([H])C(C)=C(C)C1
+O=C([CH-]C1=CC=C(C#N)C=C1)OCC,DMSO,23.64,0.65,O=C([CH-]C1=CC=C(C#N)C=C1)OCC
+O=C1[C-](CC2=CC=C(C#N)C=C2)C(OC(C)(C)O1)=O,DMSO,13.79,0.86,O=C1[C-](CC2=CC=C(C#N)C=C2)C(OC(C)(C)O1)=O
+[H]OCC,EtOH-MeCN mix,7.1,0.9,[H]OCC
+[H]OCC,EtOH-MeCN mix,6.74,0.89,[H]OCC
+O1CCC=C1,dichloromethane,4.37,0.9,O1CCC=C1
+O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C(F)(F)F)=O,MeOH-MeCN mix,20.72,0.58,O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C(F)(F)F)=O
+O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C(F)(F)F)=O,MeOH-MeCN mix,18.24,0.66,O=S([CH-]C1=CC=C([N+]([O-])=O)C=C1)(C(F)(F)F)=O
+O=C1[N-]C(=O)[N-]C1,DMSO,17.52,0.55,O=C1[N-]C(=O)[N-]C1
+N1(CCCC1)/C=C/C2=CC=CC=C2,MeCN,13.87,0.76,N1(CCCC1)/C=C/C2=CC=CC=C2
+CC1=NCCC1,dichloromethane,13.12,0.69,CC1=NCCC1
+F[B-](F)(F)C1=C(OC)C=CS1.[K+],MeCN,7.32,0.9,F[B-](F)(F)C1=C(OC)C=CS1.[K+]
+C=C(C)C[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,5.13,0.9,C=C(C)C[Sn](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+[H]OCC.[H]O[H],water-EtOH mix,7.03,0.86,[H]OCC.[H]O[H]
+FC(C(F)=C(F)C(F)=C1F)=C1[Si](C2=C(F)C(F)=C(F)C(F)=C2F)(OC3=CCCC3)C4=C(F)C(F)=C(F)C(F)=C4F,dichloromethane,1.38,0.93,FC(C(F)=C(F)C(F)=C1F)=C1[Si](C2=C(F)C(F)=C(F)C(F)=C2F)(OC3=CCCC3)C4=C(F)C(F)=C(F)C(F)=C4F
+O=C1[C-](C(OC(C)(C)O1)=O)C2=CC=C(OC)C=C2,DMSO,12.35,0.9,O=C1[C-](C(OC(C)(C)O1)=O)C2=CC=C(OC)C=C2
+O=S([O-])[O-],water,16.83,0.56,O=S([O-])[O-]
+[Cl-],water-MeCN mix,11.3,0.6,[Cl-]
+N1=CC=CC=C1,water,11.05,0.73,N1=CC=CC=C1
+O=C(C1=CC=CC=C1)[CH-]S(=O)(C2=CC=CC=C2)=O,DMSO,17.19,0.56,O=C(C1=CC=CC=C1)[CH-]S(=O)(C2=CC=CC=C2)=O
+[H]O[H],water-TFE mix,3.77,0.88,[H]O[H]
+C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)CCC(OC)=O,dichloromethane,3.84,0.87,C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)CCC(OC)=O
+ClC1=CC=NC=C1,dichloromethane,11.7,0.67,ClC1=CC=NC=C1
+NC(CO)C([O-])=O,water,13.16,0.55,NC(CO)C([O-])=O
+O=C([O-])c1ccc([N+](=O)[O-])cc1,MeCN,15.3,0.76,O=C([O-])c1ccc([N+](=O)[O-])cc1
+O=C(C1=CC=CC=C1)[CH-]C(C)=O,DMSO,16.03,0.86,O=C(C1=CC=CC=C1)[CH-]C(C)=O
+[O-]CC(F)(F)F,water,12.66,0.59,[O-]CC(F)(F)F
+O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-],DMSO,16.96,0.73,O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-]
+CCC[Sn](CCC)(CCC)CCC,"1,2-dichloroethane",-0.5,1.13,CCC[Sn](CCC)(CCC)CCC
+C=C1CC1,dichloromethane,-0.47,0.9,C=C1CC1
+O=C([CH-]C(OC)=O)OC,MeOH-MeCN mix,18.24,0.64,O=C([CH-]C(OC)=O)OC
+C1CC2=NCCCN2C1,dichloromethane,15.5,0.76,C1CC2=NCCCN2C1
+[H]/C([H])=N/N1CCCC1,dichloromethane,7.84,0.89,[H]/C([H])=N/N1CCCC1
+C=C1CCC1,dichloromethane,1.65,0.9,C=C1CCC1
+[Cl-],water-EtOH mix,11.8,0.6,[Cl-]
+COc1ccc([SiH](C)C)cc1,dichloromethane,4.23,0.73,COc1ccc([SiH](C)C)cc1
+O=[N+]([C-](C)C)[O-],MeOH-MeCN mix,12.2,0.71,O=[N+]([C-](C)C)[O-]
+C1CNCCO1,MeOH-MeCN mix,15.4,0.64,C1CNCCO1
+NC(C)C([O-])=O,water,13.01,0.58,NC(C)C([O-])=O
+O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C2=CC=CC=C2)=O,DMSO,24.3,0.51,O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C2=CC=CC=C2)=O
+O=[N+]([CH-]C1=CC=C(C)C=C1)[O-],MeOH-MeCN mix,13.58,0.64,O=[N+]([CH-]C1=CC=C(C)C=C1)[O-]
+O=C([O-])CNC(CN)=O,water,12.91,0.59,O=C([O-])CNC(CN)=O
+[H][Mo].C#[O+].C#[O+].C#[O+],dichloromethane,6.6,0.8,[H][Mo].C#[O+].C#[O+].C#[O+]
+FC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H](CCC3)N3C4=CC=NC=C4,dichloromethane,14.57,0.75,FC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H](CCC3)N3C4=CC=NC=C4
+O=C(C1=CC=CC=C1)[CH-]C(OCC)=O,DMSO,17.52,0.74,O=C(C1=CC=CC=C1)[CH-]C(OCC)=O
+CC1(C)O[B-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+],MeCN,7.46,0.76,CC1(C)O[B-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+]
+[SiH3]C1=CC=CC=C1,dichloromethane,0.06,0.71,[SiH3]C1=CC=CC=C1
+O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-],MeOH-MeCN mix,14.05,0.72,O=[N+]([CH-]C1=CC=C([N+]([O-])=O)C=C1)[O-]
+[N-]=[N+]=[N-],MeOH-MeCN mix,14.54,0.82,[N-]=[N+]=[N-]
+O=C1C=CC(=O)[N-]1,DMSO,14.87,0.76,O=C1C=CC(=O)[N-]1
+C1COC(=O)N1,DMSO,22.4,0.59,C1COC(=O)N1
+C=C(C1=CC=CC=C1)N2CCOCC2,dichloromethane,9.96,0.79,C=C(C1=CC=CC=C1)N2CCOCC2
+C1=CCC=C1,dichloromethane,2.3,1.06,C1=CCC=C1
+C1=CN=CN1,MeOH-MeCN mix,10.41,0.7,C1=CN=CN1
+N12CCN(CC2)CC1,MeCN,18.8,0.7,N12CCN(CC2)CC1
+CC1(C)O[B-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+],MeCN,6.3,0.78,CC1(C)O[B-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+]
+C=C(C)C1CC1,dichloromethane,2.6,1.0,C=C(C)C1CC1
+NCCCN,water,14.02,0.54,NCCCN
+NC(CC1=CNC=N1)C([O-])=O,water,13.83,0.54,NC(CC1=CNC=N1)C([O-])=O
+CCC[Si](CCC)CCC,dichloromethane,3.67,0.73,CCC[Si](CCC)CCC
+CN(CC1)CCN1C2=CCCCC2,dichloromethane,12.51,0.8,CN(CC1)CCN1C2=CCCCC2
+[H]N1CCCC1,water,17.21,0.49,[H]N1CCCC1
+CC[SiH](C)C,dichloromethane,3.3,0.73,CC[SiH](C)C
+c1c[n-]cn1,DMSO,20.69,0.6,c1c[n-]cn1
+C/C(C)=N/CC1=CC=CC=C1,dichloromethane,11.13,0.73,C/C(C)=N/CC1=CC=CC=C1
+[O-]OC(CC1=CC=CC=C1)=O,water,15.63,0.56,[O-]OC(CC1=CC=CC=C1)=O
+[H]OCC.[H]O[H],water-EtOH mix,5.54,0.94,[H]OCC.[H]O[H]
+O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-],DMSO,18.06,0.71,O=[N+]([CH-]C1=CC=CC([N+]([O-])=O)=C1)[O-]
+[H][W].C#[O+].C#[O+].C#[O+],dichloromethane,3.5,0.8,[H][W].C#[O+].C#[O+].C#[O+]
+CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,5.53,1.0,CC(S1)=CC=C1[B-]2(C3=CC(C(F)(F)F)=CC(C(F)(F)F)=C3)OC(C)(C)C(C)(C)O2.[Li+]
+O=C([O-])C1NCCC1,water,18.08,0.5,O=C([O-])C1NCCC1
+NC(C[S-])C([O-])=O,water,23.43,0.42,NC(C[S-])C([O-])=O
+Cc1c[nH]c(=O)[nH]c1=O,water,11.17,0.51,Cc1c[nH]c(=O)[nH]c1=O
+COC1=CSC=C1,MeCN,3.06,1.19,COC1=CSC=C1
+CN(C1=CC=CC=C1)C2=CCCC2,dichloromethane,12.9,0.79,CN(C1=CC=CC=C1)C2=CCCC2
+P(C1CCCCC1)(C2CCCCC2)C3CCCCC3,dichloromethane,14.64,0.68,P(C1CCCCC1)(C2CCCCC2)C3CCCCC3
+NC(CCC([O-])=O)C([O-])=O,water,13.96,0.54,NC(CCC([O-])=O)C([O-])=O
+c1c[n-]cn1,DMSO,14.81,0.71,c1c[n-]cn1
+CCO[SiH](OCC)OCC,dichloromethane,-1.8,0.75,CCO[SiH](OCC)OCC
+O=C1[C-](CC2=CC=C(N(C)C)C=C2)C(OC(C)(C)O1)=O,DMSO,14.48,0.86,O=C1[C-](CC2=CC=C(N(C)C)C=C2)C(OC(C)(C)O1)=O
+C=CC[B-]1(OC(C)(C)C(C)(C)O1)C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2.[Li+],MeCN,8.71,0.8,C=CC[B-]1(OC(C)(C)C(C)(C)O1)C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2.[Li+]
+C=C(C)C1=CC=CC=C1,dichloromethane,2.35,1.0,C=C(C)C1=CC=CC=C1
+c1c[n-]cn1,DMSO,21.29,0.51,c1c[n-]cn1
+O=C([C-](C1=CC=C([N+]([O-])=O)C=C1)C(OCC)=O)OCC,DMSO,14.94,0.96,O=C([C-](C1=CC=C([N+]([O-])=O)C=C1)C(OCC)=O)OCC
+C1(O[Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)=CCCC1,dichloromethane,5.76,1.02,C1(O[Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)=CCCC1
+CC1=CC(C)=CC(C)=C1[N+]2=[C-]N(C3=C(C)C=C(C)C=C3C)C=C2,THF,21.72,0.45,CC1=CC(C)=CC(C)=C1[N+]2=[C-]N(C3=C(C)C=C(C)C=C3C)C=C2
+[O-]OC(C)(C)C1=CC=CC=C1,water,13.92,0.61,[O-]OC(C)(C)C1=CC=CC=C1
+OCCNCCO,water,13.0,0.61,OCCNCCO
+O=C1C=CNC=C1,DMSO,18.97,0.62,O=C1C=CNC=C1
+C1CCNC1,MeOH-MeCN mix,15.97,0.63,C1CCNC1
+[H]N1CCCCC1,water,18.13,0.44,[H]N1CCCCC1
+NC1=CC=C(Cl)C=C1,MeCN,12.92,0.6,NC1=CC=C(Cl)C=C1
+N#C[CH-]C1=CC=C([N+]([O-])=O)C=C1,DMSO,19.67,0.68,N#C[CH-]C1=CC=C([N+]([O-])=O)C=C1
+O=c1cccc[nH]1,MeCN,20.11,0.57,O=c1cccc[nH]1
+C1=CC=C(C=C1)C(=O)[O-],aq MeCN,11.3,0.72,C1=CC=C(C=C1)C(=O)[O-]
+O=C([C-](C(N1C)=O)[I+]C2=CC=CC=C2)N(C)C1=O,dichloromethane,7.98,0.71,O=C([C-](C(N1C)=O)[I+]C2=CC=CC=C2)N(C)C1=O
+O=S([C-](OC)S(=O)(C1=CC=CC=C1)=O)(C2=CC=CC=C2)=O,DMSO,17.29,0.7,O=S([C-](OC)S(=O)(C1=CC=CC=C1)=O)(C2=CC=CC=C2)=O
+NCC=C,water,13.21,0.54,NCC=C
+C=C([Si](C)(C)C)C1=CC=CC=C1,dichloromethane,-1.13,1.46,C=C([Si](C)(C)C)C1=CC=CC=C1
+O=C(C1=CC=CC=C1)[C-](C(OCC)=O)C(OCC)=O,DMSO,13.63,0.8,O=C(C1=CC=CC=C1)[C-](C(OCC)=O)C(OCC)=O
+NC(NN)=O,water,11.05,0.52,NC(NN)=O
+[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+],dichloromethane,-0.44,1.06,[Co].[Co].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+]
+[Cl-],water-EtOH mix,13.0,0.6,[Cl-]
+c1c[n-]cn1,DMSO,21.03,0.5,c1c[n-]cn1
+[H]/C([H])=N\N(C)C,dichloromethane,6.98,0.85,[H]/C([H])=N\N(C)C
+CN(/C=C/C(OCC)=O)C,dichloromethane,9.43,0.8,CN(/C=C/C(OCC)=O)C
+O=[N+]([CH-]C1=CC=CC=C1)[O-],MeOH-MeCN mix,12.51,0.67,O=[N+]([CH-]C1=CC=CC=C1)[O-]
+Cc1c[nH]c(=O)[nH]c1=O,DMSO,17.63,0.62,Cc1c[nH]c(=O)[nH]c1=O
+CC1=CC(C)=CN1,MeCN,10.67,0.91,CC1=CC(C)=CN1
+O=C1C=CNC=C1,MeCN,20.22,0.49,O=C1C=CNC=C1
+C=C([Si](C)(C)C)C,dichloromethane,-1.46,1.05,C=C([Si](C)(C)C)C
+CN(C1=CC=CC=C1)C2=CCCCC2,dichloromethane,10.73,0.81,CN(C1=CC=CC=C1)C2=CCCCC2
+O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-],MeOH-MeCN mix,13.92,0.74,O=[N+]([CH-]C1=CC=C(C#N)C=C1)[O-]
+NC1=CC=C(C)C=C1,MeCN,13.19,0.69,NC1=CC=C(C)C=C1
+C[Si](/C=C/C1=CC=CC=C1)(C)C,dichloromethane,-0.43,1.06,C[Si](/C=C/C1=CC=CC=C1)(C)C
+C=CCC=C,dichloromethane,-2.99,0.97,C=CCC=C
+N#C[CH-]C(OCC)=O,MeOH-MeCN mix,18.59,0.65,N#C[CH-]C(OCC)=O
+CN(C1=CC=NC=C1)C,water,13.19,0.56,CN(C1=CC=NC=C1)C
+CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+],MeCN,8.56,0.76,CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C3=CC=CC=C3)OC1(C)C.[Li+]
+[H]N1CCCCCC1,water,18.29,0.46,[H]N1CCCCCC1
+CC1=NCCCN1,dichloromethane,15.21,0.69,CC1=NCCCN1
+C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)C,dichloromethane,4.76,0.86,C=C(N(O[Si](C)(C)C)O[Si](C)(C)C)C
+C=CC[Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,1.2,0.9,C=CC[Ge](C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+C1(O[Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)=CCCO1,dichloromethane,11.28,0.91,C1(O[Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)=CCCO1
+NCC([O-])=O,water,13.51,0.58,NCC([O-])=O
+O=C(C1=CC=CC=C1)[CH-]C2=CC=CC=C2,DMSO,23.15,0.6,O=C(C1=CC=CC=C1)[CH-]C2=CC=CC=C2
+C1(/C=C/N2CCOCC2)=CC=CC=C1,dichloromethane,10.76,0.87,C1(/C=C/N2CCOCC2)=CC=CC=C1
+[H][Si](CCCC)(CCCC)CCCC,dichloromethane,3.99,0.73,[H][Si](CCCC)(CCCC)CCCC
+[H]C([H])=[N+]=[N-],dichloromethane,10.48,0.78,[H]C([H])=[N+]=[N-]
+[Cl-],MeOH-MeCN mix,14.1,0.6,[Cl-]
+O=c1cc[nH]c(=O)[nH]1,DMSO,17.04,0.63,O=c1cc[nH]c(=O)[nH]1
+O=C1[C-](CC2=CC=C(OC)C=C2)C(OC(C)(C)O1)=O,DMSO,15.13,0.75,O=C1[C-](CC2=CC=C(OC)C=C2)C(OC(C)(C)O1)=O
+CC1=CC=C(C)N1C,MeCN,8.69,1.07,CC1=CC=C(C)N1C
+O=C(C(CC=C1)=CN1CC2=CC=CC=C2)N,dichloromethane,8.67,0.82,O=C(C(CC=C1)=CN1CC2=CC=CC=C2)N
+[Cl-],water-MeCN mix,12.0,0.6,[Cl-]
+C1=NC2=NC=NC(=C2N1)N,water,10.93,0.62,C1=NC2=NC=NC(=C2N1)N
+NCCC1=CC=CC=C1,water,13.4,0.57,NCCC1=CC=CC=C1
+O=C1[C-](C(OCC)=O)CCCCCCCCCC1,DMSO,20.6,0.63,O=C1[C-](C(OCC)=O)CCCCCCCCCC1
+[H]OC,MeOH-MeCN mix,5.55,0.97,[H]OC
+O=c1cccc[nH]1,water,12.47,0.52,O=c1cccc[nH]1
+[O-]/C(C1=[N+](C2=CC=CC=C2)N=C(C3=CC=CC=C3)N1C4=CC=CC=C4)=C(C5=CC=CC=C5)/C,THF,14.4,0.66,[O-]/C(C1=[N+](C2=CC=CC=C2)N=C(C3=CC=CC=C3)N1C4=CC=CC=C4)=C(C5=CC=CC=C5)/C
+CCCC[C-](C(OCC)=O)C(OCC)=O,DMSO,23.0,0.55,CCCC[C-](C(OCC)=O)C(OCC)=O
+O=C([C-](C1=CC=C(OC)C=C1)C(OCC)=O)OCC,DMSO,16.73,0.91,O=C([C-](C1=CC=C(OC)C=C1)C(OCC)=O)OCC
+O=C(C1=CC=CC=C1)[CH-]C(N(CC)CC)=O,DMSO,19.28,0.65,O=C(C1=CC=CC=C1)[CH-]C(N(CC)CC)=O
+[H]OC,MeOH-MeCN mix,6.04,0.94,[H]OC
+CC1=CC([H])([H])C(C)=CC1,dichloromethane,1.88,0.96,CC1=CC([H])([H])C(C)=CC1
+CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C3CC3)OC1(C)C.[Li+],MeCN,7.72,0.75,CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C3CC3)OC1(C)C.[Li+]
+[Br-],water,11.7,0.6,[Br-]
+C=CC(C)([H])C=C,dichloromethane,-3.08,0.97,C=CC(C)([H])C=C
+C=CC1=C(C)C=C(C)C=C1C,dichloromethane,0.68,1.09,C=CC1=C(C)C=C(C)C=C1C
+[H][Mo].C#[O+].C#[O+].C#[O+],dichloromethane,6.5,0.8,[H][Mo].C#[O+].C#[O+].C#[O+]
+CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C)OC1(C)C.[Li+],MeCN,6.63,0.75,CC1(C)O[B-](C2=CC=C(C(F)(F)F)C=C2)(C(C)C)OC1(C)C.[Li+]
+[H][Si](CC)(CC)CC,dichloromethane,3.58,0.7,[H][Si](CC)(CC)CC
+[S-]C#N,MeCN,17.94,0.6,[S-]C#N
+CN(C1=CC=NC=C1)C,MeOH-MeCN mix,13.2,0.67,CN(C1=CC=NC=C1)C
+COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,dichloromethane,10.46,0.75,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+C1=CC=C2C(=C1)C(=O)NS2(=O)=O,MeCN,10.78,0.89,C1=CC=C2C(=C1)C(=O)NS2(=O)=O
+[H]C(C1=CC=C(OC)C=C1)([H])C2=CC=C(OC)C=C2,dichloromethane,-2.11,0.98,[H]C(C1=CC=C(OC)C=C1)([H])C2=CC=C(OC)C=C2
+[N-]=[N+]=C(C1=CC=CC=C1)C2=CC=CC=C2,dichloromethane,5.29,0.92,[N-]=[N+]=C(C1=CC=CC=C1)C2=CC=CC=C2
+O=S([CH-]C1=CC=CC=C1)(C2=CC=CC=C2)=O,DMSO,25.77,0.56,O=S([CH-]C1=CC=CC=C1)(C2=CC=CC=C2)=O
+CC[GeH](CC)CC,dichloromethane,4.0,0.75,CC[GeH](CC)CC
+[H]C(C1=CC=C(N(C)C)C=C1)(C2=CC=C(N(C)C)C=C2)C3=CC=C(N(C)C)C=C3,MeCN,-3.3,0.82,[H]C(C1=CC=C(N(C)C)C=C1)(C2=CC=C(N(C)C)C=C2)C3=CC=C(N(C)C)C=C3
+N1(/C=C/C2=CC=CC=C2)CCCC1C(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5,dichloromethane,10.19,1.06,N1(/C=C/C2=CC=CC=C2)CCCC1C(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
+O=C1[C-](C(OCC)=O)CCC1,DMSO,18.63,0.82,O=C1[C-](C(OCC)=O)CCC1
+[CH2-][N+]([O-])=O,MeOH-MeCN mix,14.02,0.61,[CH2-][N+]([O-])=O
+NO,MeOH-MeCN mix,12.23,0.66,NO
+O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C(F)(F)F)=O,DMSO,17.33,0.74,O=S([CH-]C1=CC=C(C(F)(F)F)C=C1)(C(F)(F)F)=O
+CC1(C)O[B-](C2=CC=CC=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+],MeCN,8.92,0.7,CC1(C)O[B-](C2=CC=CC=C2)(CC3=CC=CC=C3)OC1(C)C.[Li+]
+O=S([CH-]C1=CC=C(C#N)C=C1)(C2=CC=CC=C2)=O,DMSO,22.6,0.57,O=S([CH-]C1=CC=C(C#N)C=C1)(C2=CC=CC=C2)=O
+CC[Si](CC)(CC)CC,MeCN,-6.5,1.1,CC[Si](CC)(CC)CC
+CC[Sn](CC)(CC)CC,MeCN,-2.4,1.1,CC[Sn](CC)(CC)CC
+C[C-](C#N)C1=CC=C(C#N)C=C1,DMSO,25.35,0.56,C[C-](C#N)C1=CC=C(C#N)C=C1
+CC(C=C1)=CC=C1N2C=C(C(N)=O)CC=C2,dichloromethane,7.68,0.95,CC(C=C1)=CC=C1N2C=C(C(N)=O)CC=C2
+CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C,dichloromethane,8.56,0.7,CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C
+O=C1[C-](C(OCC)=O)CCCC1,DMSO,18.32,0.84,O=C1[C-](C(OCC)=O)CCCC1
+CCCCP(CCCC)CCCC,dichloromethane,15.49,0.69,CCCCP(CCCC)CCCC
+[Cl-],HFIP,8.0,0.6,[Cl-]
+O=C1[C-](CC2=CC=C([N+]([O-])=O)C=C2)C(OC(C)(C)O1)=O,DMSO,12.02,1.17,O=C1[C-](CC2=CC=C([N+]([O-])=O)C=C2)C(OC(C)(C)O1)=O
+CC(C=C(C)C=C1C)=C1N2[C]N(C)C=C2,THF,21.5,0.45,CC(C=C(C)C=C1C)=C1N2[C]N(C)C=C2
+[Br-],water-MeCN mix,12.2,0.6,[Br-]
+C[SiH](C)C,dichloromethane,4.86,0.64,C[SiH](C)C
+C[Si](C1C2=CC=CC=C2C=C1)(C)C,dichloromethane,-0.1,1.05,C[Si](C1C2=CC=CC=C2C=C1)(C)C
+CCN(CC)CC,MeCN,17.1,0.52,CCN(CC)CC
+CC(O)C,water,-2.6,0.8,CC(O)C
+C1=CC=C(C=C1)C(=O)[O-],MeCN,16.82,0.7,C1=CC=C(C=C1)C(=O)[O-]
+CC1C(OCO1)C,dichloromethane,-2.4,0.8,CC1C(OCO1)C
+CC1=NCCN1,dichloromethane,12.92,0.77,CC1=NCCN1
+O=C(C1=CC=CC=C1)[C-](C(C2=CC=CC=C2)=O)C3=CC=CC=C3,DMSO,14.99,0.83,O=C(C1=CC=CC=C1)[C-](C(C2=CC=CC=C2)=O)C3=CC=CC=C3
+[C]=NC1=CC=C(C#N)C=C1,dichloromethane,3.57,0.72,[C]=NC1=CC=C(C#N)C=C1
+O=C(C(CC=C1)=CN1C2=CC=CC=C2)N,dichloromethane,7.53,0.87,O=C(C(CC=C1)=CN1C2=CC=CC=C2)N
+O=S([CH-]S(=O)(C1=CC=CC=C1)=O)(C2=CC=CC=C2)=O,DMSO,15.68,0.74,O=S([CH-]S(=O)(C1=CC=CC=C1)=O)(C2=CC=CC=C2)=O
+[H][W].C#[O+].C#[O+].C#[O+],dichloromethane,-0.9,0.8,[H][W].C#[O+].C#[O+].C#[O+]
+ClC(C=C1)=CC=C1P(C2=CC=C(Cl)C=C2)C3=CC=C(Cl)C=C3,dichloromethane,12.58,0.65,ClC(C=C1)=CC=C1P(C2=CC=C(Cl)C=C2)C3=CC=C(Cl)C=C3
+O=S([CH-]C1=CC=CC=C1)(C(F)(F)F)=O,DMSO,18.67,0.68,O=S([CH-]C1=CC=CC=C1)(C(F)(F)F)=O
+CC1=NCCCN1,DMSO,14.58,0.79,CC1=NCCCN1
+CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OCC(C)(C)CO2.[Li+],MeCN,11.85,0.72,CC(S1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OCC(C)(C)CO2.[Li+]
+C=CCC1=CC=CC=C1,dichloromethane,-4.12,0.97,C=CCC1=CC=CC=C1
+[Cl-],EtOH,14.7,0.6,[Cl-]
+C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,-4.27,0.8,C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=CC=C3
+O=S([C-](C#N)C1=CC=CC=C1)(C2=CC=CC=C2)=O,DMSO,15.97,0.72,O=S([C-](C#N)C1=CC=CC=C1)(C2=CC=CC=C2)=O
+O=C1OCCC([C-]1C)=O,DMSO,14.46,0.91,O=C1OCCC([C-]1C)=O
+C/C(C)=C/N1CCOCC1,dichloromethane,10.04,0.82,C/C(C)=C/N1CCOCC1
+P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,dichloromethane,14.33,0.65,P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+[Cl-],water-MeCN mix,11.31,0.58,[Cl-]
+NCC(N)=O,water,12.29,0.58,NCC(N)=O
+[H]C(C1=CC=C(OC)C=C1)(C2=CC=C(OC)C=C2)C3=CC=C(OC)C=C3,MeCN,-7.0,0.82,[H]C(C1=CC=C(OC)C=C1)(C2=CC=C(OC)C=C2)C3=CC=C(OC)C=C3
+CC1=NCCCN1,MeCN,14.43,0.79,CC1=NCCCN1
+CCCCOP(OCCCC)OCCCC,dichloromethane,10.36,0.7,CCCCOP(OCCCC)OCCCC
+CC(C=C1)=CC=C1S(N(CC2=CC=CC=C2)C#CC3=CC=CC=C3OC)(=O)=O,dichloromethane,4.4,0.86,CC(C=C1)=CC=C1S(N(CC2=CC=CC=C2)C#CC3=CC=CC=C3OC)(=O)=O
+N1(/C=C/C2=CC=CC=C2)CCCC1,dichloromethane,12.26,0.93,N1(/C=C/C2=CC=CC=C2)CCCC1
+CC(C)C1=CC=C(C)C=C1,dichloromethane,-2.8,0.97,CC(C)C1=CC=C(C)C=C1
+c1c[n-]cn1,water,11.37,0.53,c1c[n-]cn1
+F[C-]1S(C2=C(C=CC=C2)S(=O)1=O)(=O)=O,DMSO,19.03,0.58,F[C-]1S(C2=C(C=CC=C2)S(=O)1=O)(=O)=O
+CC(O1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,8.13,0.85,CC(O1)=CC=C1[B-]2(C3=CC=C(C(F)(F)F)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+CN(C(C=C1)=CC=C1P(C2=CC=C(N(C)C)C=C2)C3=CC=C(N(C)C)C=C3)C,dichloromethane,18.39,0.64,CN(C(C=C1)=CC=C1P(C2=CC=C(N(C)C)C=C2)C3=CC=C(N(C)C)C=C3)C
+c1c[n-]cn1,DMSO,16.06,0.68,c1c[n-]cn1
+[H][W].C#[O+].C#[O+].C#[O+],dichloromethane,1.7,0.8,[H][W].C#[O+].C#[O+].C#[O+]
+CC1C(OCO1)C,dichloromethane,-3.5,0.8,CC1C(OCO1)C
+CC1=CC(C)([H])C=C(C)C1,dichloromethane,4.95,0.79,CC1=CC(C)([H])C=C(C)C1
+O=C(C1=CC=CC=C1)[CH-][N+]([O-])=O,DMSO,13.91,0.76,O=C(C1=CC=CC=C1)[CH-][N+]([O-])=O
+Cl[CH-]S(C1=CC=C(C#N)C=C1)(=O)=O,DMSO,25.59,0.51,Cl[CH-]S(C1=CC=C(C#N)C=C1)(=O)=O
+C[SiH](Cl)Cl,dichloromethane,-3.2,0.73,C[SiH](Cl)Cl
+ClC1=CC=CC([CH-]C(OCC)=O)=C1,DMSO,27.57,0.53,ClC1=CC=CC([CH-]C(OCC)=O)=C1
+[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C,THF,15.33,0.79,[O-]/C(C1=[N+](C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C)=C(C4=CC=CC=C4)/C
+O=S([C-](OC)C(OCC)=O)(C1=CC=CC=C1)=O,DMSO,19.15,0.59,O=S([C-](OC)C(OCC)=O)(C1=CC=CC=C1)=O
+O=[N+](C1=CC=C([CH-]C2=CC=C([N+]([O-])=O)C=C2)C=C1)[O-],DMSO,19.92,0.67,O=[N+](C1=CC=C([CH-]C2=CC=C([N+]([O-])=O)C=C2)C=C1)[O-]
+C[Si](C)Cc1ccccc1,dichloromethane,2.78,0.73,C[Si](C)Cc1ccccc1
+[H][W].C#[O+].C#[O+].C#[O+],dichloromethane,3.5,0.8,[H][W].C#[O+].C#[O+].C#[O+]
+CC1=NCCO1,dichloromethane,9.81,0.77,CC1=NCCO1
+CC1C(OC(O1)C)C,dichloromethane,-2.5,0.8,CC1C(OC(O1)C)C
+Br[O-],water,16.69,0.46,Br[O-]
+[Cl-],water,10.1,0.6,[Cl-]
+NCC#C,water,12.29,0.59,NCC#C
+COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,dichloromethane,10.54,0.74,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O
+C=C(N(O[Si](C)(C)C(C)(C)C)O[Si](C)(C)C(C)(C)C)C,dichloromethane,4.23,0.93,C=C(N(O[Si](C)(C)C(C)(C)C)O[Si](C)(C)C(C)(C)C)C
+C1(CCC=C2)=C2C=CC=C1,MeCN,-3.3,1.0,C1(CCC=C2)=C2C=CC=C1
+F[C-](C(OCC)=O)C(OCC)=O,DMSO,20.63,0.76,F[C-](C(OCC)=O)C(OCC)=O
+CNCC#N,water,13.5,0.59,CNCC#N
+[H][W].C#[O+].C#[O+].C#[O+],dichloromethane,2.4,0.8,[H][W].C#[O+].C#[O+].C#[O+]
+C=C([Si](C)([Si](C)(C)C)C)C,dichloromethane,-0.26,0.95,C=C([Si](C)([Si](C)(C)C)C)C
+O=C([C-]1CCCOC1=O)C,DMSO,17.0,0.74,O=C([C-]1CCCOC1=O)C
+CCCCCC[SiH3],dichloromethane,0.19,0.73,CCCCCC[SiH3]
+CCC#CN(CC1=CC=CC=C1)S(C2=CC=C(C)C=C2)(=O)=O,dichloromethane,5.16,0.85,CCC#CN(CC1=CC=CC=C1)S(C2=CC=C(C)C=C2)(=O)=O
+[Br-],water-MeCN mix,13.8,0.6,[Br-]
+O=C(C(CC=C1)=CN1CC2=CC=CC=C2)N,water-MeCN mix,11.35,0.66,O=C(C(CC=C1)=CN1CC2=CC=CC=C2)N
+c1c[n-]cn1,water,11.07,0.5,c1c[n-]cn1
+CC1=CN=CC=C1,MeCN,11.5,0.8,CC1=CN=CC=C1
+O=C([C-](OC)C(OC)=O)OC,DMSO,20.08,0.74,O=C([C-](OC)C(OC)=O)OC
+CCCC1OCCO1,dichloromethane,-1.06,0.81,CCCC1OCCO1
+O=S([CH-]C(OCC)=O)(C1=CC=CC=C1)=O,DMSO,18.81,0.59,O=S([CH-]C(OCC)=O)(C1=CC=CC=C1)=O
+O=C([C-](C#N)C1=CC=CC=C1)OCC,DMSO,15.85,1.04,O=C([C-](C#N)C1=CC=CC=C1)OCC
+C[Sn](C)(C)CCc1ccccc1,"1,2-dichloroethane",-1.1,1.1,C[Sn](C)(C)CCc1ccccc1
+C1(N2CCOCC2)=CC=NC=C1,dichloromethane,14.59,0.69,C1(N2CCOCC2)=CC=NC=C1
+[H]C1([H])C2=C(C=CC=C2)N(C)C3=CC=CC=C31,MeCN,4.0,0.7,[H]C1([H])C2=C(C=CC=C2)N(C)C3=CC=CC=C31
+O=C(C)[C-](C(OCC)=O)C(OCC)=O,DMSO,13.83,0.84,O=C(C)[C-](C(OCC)=O)C(OCC)=O
+C[O-],MeOH-MeCN mix,14.51,0.68,C[O-]
+C1COC(O1)C2=CC=CC=C2,dichloromethane,-0.9,0.8,C1COC(O1)C2=CC=CC=C2
+CC(S1)=CC=C1[B-]2(C3=CC=C(N(C)C)C=C3)OC(C)(C)C(C)(C)O2.[Li+],MeCN,8.02,0.89,CC(S1)=CC=C1[B-]2(C3=CC=C(N(C)C)C=C3)OC(C)(C)C(C)(C)O2.[Li+]
+O=C([C-](C1=CC=CC=C1)C(OCC)=O)OCC,DMSO,15.93,0.99,O=C([C-](C1=CC=CC=C1)C(OCC)=O)OCC
+O=C1[C-](CC2=CC=CC=C2)C(OC(C)(C)O1)=O,DMSO,15.02,0.75,O=C1[C-](CC2=CC=CC=C2)C(OC(C)(C)O1)=O
+CC(C=C1)=CC=C1P(C2=CC=C(C)C=C2)C3=CC=C(C)C=C3,dichloromethane,15.44,0.64,CC(C=C1)=CC=C1P(C2=CC=C(C)C=C2)C3=CC=C(C)C=C3
+[F-],water-MeCN mix,8.05,0.64,[F-]
+CN1C=C[N+](C2=CC=C(OC)C=C2)=[C-]1,THF,20.41,0.46,CN1C=C[N+](C2=CC=C(OC)C=C2)=[C-]1
+CN1C=C[N+](C2=C(OC)C=CC=C2OC)=[C-]1,THF,23.0,0.46,CN1C=C[N+](C2=C(OC)C=CC=C2OC)=[C-]1
+O=C1[C-](C(OCC)=O)CCCCCC1,DMSO,20.02,0.76,O=C1[C-](C(OCC)=O)CCCCCC1
+O=C(O[O-])C1=CC=CC=C1C([O-])=O,water,18.43,0.46,O=C(O[O-])C1=CC=CC=C1C([O-])=O
+N,MeCN,11.39,0.69,N
+CCCCCC[SiH3],dichloromethane,2.27,0.73,CCCCCC[SiH3]
+Cl[C-](C(OCC)=O)C(OCC)=O,DMSO,18.19,0.74,Cl[C-](C(OCC)=O)C(OCC)=O
+[Br-],water-EtOH mix,13.6,0.6,[Br-]
+C=C([Si](C)(C)C)C1=CC=C(C)C=C1,dichloromethane,-0.65,1.59,C=C([Si](C)(C)C)C1=CC=C(C)C=C1
+Br[CH-]S(=O)(C1=CC=CC=C1)=O,DMSO,23.9,0.62,Br[CH-]S(=O)(C1=CC=CC=C1)=O
+O=C1N(C#CC2=CC=CC=C2)CCC1,dichloromethane,3.12,0.85,O=C1N(C#CC2=CC=CC=C2)CCC1
+CNC,MeCN,17.96,0.63,CNC
+C[SiH](C)C,dichloromethane,4.91,0.64,C[SiH](C)C
+COCOC,dichloromethane,-4.9,0.8,COCOC
+CCCCCC[Si](CCCCCC)CCCCCC,dichloromethane,3.89,0.73,CCCCCC[Si](CCCCCC)CCCCCC
+O=c1cc[nH]c(=O)[nH]1,water,10.75,0.53,O=c1cc[nH]c(=O)[nH]1
+[H]N1CCOCC1,water,15.62,0.54,[H]N1CCOCC1
+[H]C(C1=CC=C(N(C)C)C=C1)(C2=CC=CC=C2)C3=CC=C(N(C)C)C=C3,MeCN,-4.2,0.82,[H]C(C1=CC=C(N(C)C)C=C1)(C2=CC=CC=C2)C3=CC=C(N(C)C)C=C3
+F[C-](C(OCC)=O)S(=O)(C1=CC=CC=C1)=O,DMSO,20.51,0.64,F[C-](C(OCC)=O)S(=O)(C1=CC=CC=C1)=O
+[Cl-],water-MeCN mix,13.3,0.6,[Cl-]
+C[SiH](C)C,dichloromethane,-5.4,1.1,C[SiH](C)C
+O=C(O[O-])C1=CC=C(OC)C=C1,water,17.84,0.46,O=C(O[O-])C1=CC=C(OC)C=C1
+OCCN,water,12.61,0.58,OCCN
+C[SiH](c1ccccc1)c2ccccc2,dichloromethane,2.72,0.73,C[SiH](c1ccccc1)c2ccccc2
+N1(/C=C/C2=CC=CC=C2)CCCC1[Si](C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5,dichloromethane,11.77,0.98,N1(/C=C/C2=CC=CC=C2)CCCC1[Si](C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5
+[F-],water-MeCN mix,12.27,0.59,[F-]
+CC(C)[C-](C(OCC)=O)C(OCC)=O,DMSO,18.74,0.71,CC(C)[C-](C(OCC)=O)C(OCC)=O
+O=S([C-](S(=O)(C1=CC=CC=C1)=O)C2=CC=CC=C2)(C3=CC=CC=C3)=O,DMSO,15.07,0.79,O=S([C-](S(=O)(C1=CC=CC=C1)=O)C2=CC=CC=C2)(C3=CC=CC=C3)=O
+[F-],water-MeCN mix,9.75,0.63,[F-]
+CC[Sn](CC)(CC)CC,"1,2-dichloroethane",-1.9,1.1,CC[Sn](CC)(CC)CC
+O=C(O[O-])C1=CC(Cl)=C(OC)C=C1,water,18.56,0.48,O=C(O[O-])C1=CC(Cl)=C(OC)C=C1
+CC1C(OCO1)C,dichloromethane,-2.9,0.8,CC1C(OCO1)C
+O=C(C1=CC=CC=C1)[CH-]C#N,DMSO,16.55,0.78,O=C(C1=CC=CC=C1)[CH-]C#N
+C1CCOC1,dichloromethane,-3.5,0.8,C1CCOC1
+CC1C(OCO1)C,dichloromethane,-4.1,0.8,CC1C(OCO1)C
+[H][Mo].C#[O+].C#[O+].C#[O+],dichloromethane,4.3,0.77,[H][Mo].C#[O+].C#[O+].C#[O+]
+O=C1[C-](C(OC(C)(C)O1)=O)C2=CC=CC=C2,DMSO,11.54,0.95,O=C1[C-](C(OC(C)(C)O1)=O)C2=CC=CC=C2
+O=C(O[O-])C1=CC=C([N+]([O-])=O)C=C1,water,17.43,0.5,O=C(O[O-])C1=CC=C([N+]([O-])=O)C=C1
+COP(OC)OC,MeOH-MeCN mix,9.04,0.7,COP(OC)OC
+c1c[n-]cn1,DMSO,16.4,0.67,c1c[n-]cn1
+CC1OCCO1,dichloromethane,-3.3,0.8,CC1OCCO1
+c1c[n-]cn1,DMSO,21.09,0.51,c1c[n-]cn1
+[H]C(C1=CC=C(C)C=C1)(C2=CC=C(C)C=C2)C3=CC=C(C)C=C3,MeCN,-8.8,0.82,[H]C(C1=CC=C(C)C=C1)(C2=CC=C(C)C=C2)C3=CC=C(C)C=C3
+CC1C(OCO1)C,dichloromethane,-2.6,0.8,CC1C(OCO1)C
+CN1CCCC1C2=CC=CC=C2,MeCN,15.7,0.54,CN1CCCC1C2=CC=CC=C2
+Cl[CH-]S(C1=CC=C([N+]([O-])=O)C=C1)(=O)=O,DMSO,24.88,0.49,Cl[CH-]S(C1=CC=C([N+]([O-])=O)C=C1)(=O)=O
+O=C([C-](C1CCCCC1)C(OCC)=O)OCC,DMSO,19.23,0.67,O=C([C-](C1CCCCC1)C(OCC)=O)OCC
+CC1=CN=CC=C1,dichloromethane,10.9,0.93,CC1=CN=CC=C1
+CN1CCCC1C2=CC=CC=C2,dichloromethane,16.8,0.49,CN1CCCC1C2=CC=CC=C2
+CC([N+]1=[C-]N(C)C=C1)(C)C,THF,16.54,0.47,CC([N+]1=[C-]N(C)C=C1)(C)C
+Cl[CH-]S(C1=CC=C(Cl)C=C1)(=O)=O,DMSO,26.9,0.45,Cl[CH-]S(C1=CC=C(Cl)C=C1)(=O)=O
+[F-],MeOH,11.31,0.63,[F-]
+O=C(O[O-])C1=CC=C(F)C=C1,water,17.99,0.47,O=C(O[O-])C1=CC=C(F)C=C1
+O=C1[CH-]C(NC(N1)=O)=O,DMSO,15.59,0.8,O=C1[CH-]C(NC(N1)=O)=O
+[H][C@@](C1=CN=CC=C1)(CCC2)N2C,MeCN,11.6,0.81,[H][C@@](C1=CN=CC=C1)(CCC2)N2C
+[Cl-],water-MeCN mix,12.0,0.6,[Cl-]
+C1CCOCOC1,dichloromethane,-3.8,0.8,C1CCOCOC1
+CC(C=C1)=CC=C1S(N(CC2=CC=CC=C2)C#CC3=CC=CC=C3)(=O)=O,dichloromethane,3.85,0.84,CC(C=C1)=CC=C1S(N(CC2=CC=CC=C2)C#CC3=CC=CC=C3)(=O)=O
+O=S(C1=C(C=CC=C1)S2(=O)=O)([C-]2OC)=O,DMSO,17.36,0.71,O=S(C1=C(C=CC=C1)S2(=O)=O)([C-]2OC)=O
+O=C1[CH-]C(NC(N1)=S)=O,DMSO,14.24,0.82,O=C1[CH-]C(NC(N1)=S)=O
+[Br-],water-MeCN mix,12.8,0.6,[Br-]
+F[C-](S(=O)(C1=CC=CC=C1)=O)S(=O)(C2=CC=CC=C2)=O,DMSO,17.46,0.73,F[C-](S(=O)(C1=CC=CC=C1)=O)S(=O)(C2=CC=CC=C2)=O
+Cl[CH-]S(=O)(C1=CC=CC=C1)=O,DMSO,28.27,0.42,Cl[CH-]S(=O)(C1=CC=CC=C1)=O
+C=C([Si](C)([Si](C)(C)C)C)C1=CC=CC=C1,dichloromethane,0.61,1.01,C=C([Si](C)([Si](C)(C)C)C)C1=CC=CC=C1
+O=C1[C-](CC2=CC=C(N(C)C)C=C2)C(OC(C)(C)O1)=O,MeCN,7.15,0.81,O=C1[C-](CC2=CC=C(N(C)C)C=C2)C(OC(C)(C)O1)=O
+[O-]OC(CC[NH+]1CCCCC1)=O,water,13.94,0.62,[O-]OC(CC[NH+]1CCCCC1)=O
+C[SiH](C)C,dichloromethane,3.15,0.73,C[SiH](C)C
+CC1C(OCO1)C,dichloromethane,-2.4,0.8,CC1C(OCO1)C
+N#C[C-](C#N)C1=CC=CC=C1,DMSO,15.58,1.0,N#C[C-](C#N)C1=CC=CC=C1
+[F-],water-EtOH mix,13.2,0.53,[F-]
+[H][Mn].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+],dichloromethane,1.5,0.8,[H][Mn].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+]
+C1COCO1,dichloromethane,-2.86,0.8,C1COCO1
+[H][Re].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+],dichloromethane,3.5,0.8,[H][Re].C#[O+].C#[O+].C#[O+].C#[O+].C#[O+]
+O=C(O[O-])C1=CC=CC=C1,water,18.57,0.43,O=C(O[O-])C1=CC=CC=C1
+CC(O1)(C)C(C)(C)O[B-]1(C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)C/C=C/C.[Li+],MeCN,9.49,0.82,CC(O1)(C)C(C)(C)O[B-]1(C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)C/C=C/C.[Li+]
+[F-],water,7.7,0.66,[F-]
+c1ccc([SiH2]c2ccccc2)cc1,dichloromethane,1.52,0.73,c1ccc([SiH2]c2ccccc2)cc1
+[Cl-],MeCN,17.2,0.6,[Cl-]
+[F-],water-MeCN mix,10.88,0.83,[F-]
+CC(C)C[Sn](CC(C)C)(CC(C)C)CC(C)C,dichloromethane,1.35,1.1,CC(C)C[Sn](CC(C)C)(CC(C)C)CC(C)C
+O=C1[CH-]C(N(C)C(N1C)=O)=O,DMSO,17.46,0.72,O=C1[CH-]C(N(C)C(N1C)=O)=O
+O=C(O[O-])CCCCCN1C(C(C=CC=C2)=C2C1=O)=O,water,16.02,0.54,O=C(O[O-])CCCCCN1C(C(C=CC=C2)=C2C1=O)=O
+O=C1[C-](CC2=CC=C(OC)C=C2)C(OC(C)(C)O1)=O,MeCN,6.21,0.68,O=C1[C-](CC2=CC=C(OC)C=C2)C(OC(C)(C)O1)=O
+FC(C1NCCC1)(F)F,MeCN,11.34,0.73,FC(C1NCCC1)(F)F
+O=S(C1=C(C=CC=C1)S2(=O)=O)([CH-]2)=O,DMSO,16.06,0.69,O=S(C1=C(C=CC=C1)S2(=O)=O)([CH-]2)=O
+[F-],water-MeCN mix,11.4,0.59,[F-]
+[H]/C([H])=N/N1CCCC1,dichloromethane,17.9,0.48,[H]/C([H])=N/N1CCCC1
+O=C1[C-](CC2=CC=CC=C2)C(OC(C)(C)O1)=O,MeCN,5.51,0.7,O=C1[C-](CC2=CC=CC=C2)C(OC(C)(C)O1)=O
+COC1=CC=CC=C1P(C2=CC=CC=C2OC)C3=CC=CC=C3OC,dichloromethane,14.26,0.73,COC1=CC=CC=C1P(C2=CC=CC=C2OC)C3=CC=CC=C3OC
+O=C(O[O-])C1=CC(Cl)=CC=C1,water,18.19,0.47,O=C(O[O-])C1=CC(Cl)=CC=C1
+[O-]OC(C)(C)C,water,14.29,0.51,[O-]OC(C)(C)C
+O=C(O[O-])C1=CC(Cl)=CC(Cl)=C1,water,17.93,0.5,O=C(O[O-])C1=CC(Cl)=CC(Cl)=C1
+C[SiH](C)Cl,dichloromethane,0.79,0.73,C[SiH](C)Cl
+C=CC[B-]1(OC(C)(C)C(C)(C)O1)C2=CC=CC=C2.[Li+],MeCN,11.2,0.64,C=CC[B-]1(OC(C)(C)C(C)(C)O1)C2=CC=CC=C2.[Li+]
+[H]C(C1=CC=C(Br)C=C1)=[N+]=[N-],dichloromethane,8.87,0.82,[H]C(C1=CC=C(Br)C=C1)=[N+]=[N-]
+CCCC[Sn](CCCC)(CCCC)CCCC,dichloromethane,-0.3,1.07,CCCC[Sn](CCCC)(CCCC)CCCC
+CC1C(OC(O1)C)C,dichloromethane,-3.0,0.8,CC1C(OC(O1)C)C
+[O-]OC(CCC[NH3+])=O,water,14.33,0.57,[O-]OC(CCC[NH3+])=O
+COC(C=CC=C1OC)=C1P(C2=C(OC)C=CC=C2OC)C3=C(OC)C=CC=C3OC,dichloromethane,15.19,0.88,COC(C=CC=C1OC)=C1P(C2=C(OC)C=CC=C2OC)C3=C(OC)C=CC=C3OC
+NC(C[S-])C([O-])=O,water,23.43,0.42,NC(C[S-])C([O-])=O
+COC(C=CC=C1OC)=C1P(C2=C(OC)C=CC=C2OC)C3=C(OC)C=CC=C3OC,MeCN,18.11,0.62,COC(C=CC=C1OC)=C1P(C2=C(OC)C=CC=C2OC)C3=C(OC)C=CC=C3OC
+C/C=C(O[Si](C)(C)C)/C1=CC=CC=C1,MeCN,5.18,0.94,C/C=C(O[Si](C)(C)C)/C1=CC=CC=C1
+C=C(C1=CC=CC=C1)N2CCOCC2,MeCN,10.3,0.8,C=C(C1=CC=CC=C1)N2CCOCC2
+CC(C)(C)P(C(C)(C)C)C1=CC=CC=C1,dichloromethane,12.4,0.55,CC(C)(C)P(C(C)(C)C)C1=CC=CC=C1
+O=C1[CH-]C(N(CC)C(N1CC)=S)=O,DMSO,14.9,0.8,O=C1[CH-]C(N(CC)C(N1CC)=S)=O
+[O-]OS(=O)([O-])=O,water,14.41,0.6,[O-]OS(=O)([O-])=O
+[H]C1([H])C=CCC2=C1C=CC=C2,MeCN,-2.5,1.0,[H]C1([H])C=CCC2=C1C=CC=C2
+C(/N1CCCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3,MeCN,11.66,0.82,C(/N1CCCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3
+N#CC(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3,MeCN,10.63,0.84,N#CC(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3
+CC(C=C1)=CC(C)=C1P(C2=C(C)C=C(C)C=C2)C3=CC=C(C)C=C3C,dichloromethane,14.88,0.41,CC(C=C1)=CC(C)=C1P(C2=C(C)C=C(C)C=C2)C3=CC=C(C)C=C3C
+C[Si](OC1=CCCC1)(C)C,MeCN,6.43,0.89,C[Si](OC1=CCCC1)(C)C
+Cl[O-],water,14.5,0.58,Cl[O-]
+O=C(C)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,MeCN,10.27,0.83,O=C(C)C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+[H]C(C1=CC=C(C#N)C=C1)=[N+]=[N-],dichloromethane,7.66,0.8,[H]C(C1=CC=C(C#N)C=C1)=[N+]=[N-]
+[O-]C1=CC=C([N+]([O-])=O)C=C1,MeCN,15.14,0.82,[O-]C1=CC=C([N+]([O-])=O)C=C1
+[O-]Br=O,water,12.75,0.59,[O-]Br=O
+C[Si](OC1=CCC2=CC=CC=C21)(C)C,MeCN,7.32,0.82,C[Si](OC1=CCC2=CC=CC=C21)(C)C
+N1(CCCCC1)/C=C/C2=CC=CC=C2,MeCN,13.84,0.73,N1(CCCCC1)/C=C/C2=CC=CC=C2
+[O-]C1=CC=CC=C1[N+]([O-])=O,MeCN,15.83,0.8,[O-]C1=CC=CC=C1[N+]([O-])=O
+[O-]C1=CC=CC=C1C(F)(F)F,DMSO,18.47,0.61,[O-]C1=CC=CC=C1C(F)(F)F
+O,MeCN,5.79,0.72,O
+[H]C(C1=CC=C([N+]([O-])=O)C=C1)=[N+]=[N-],dichloromethane,7.17,0.83,[H]C(C1=CC=C([N+]([O-])=O)C=C1)=[N+]=[N-]
+O=C([H])C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3,MeCN,9.09,0.74,O=C([H])C=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+O=C([CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2)OCC,DMSO,26.95,0.52,O=C([CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2)OCC
+[O-]OC(CC[NH3+])=O,water,14.07,0.56,[O-]OC(CC[NH3+])=O
+[H]/C(C1=CC=CC=C1)=N\C(C)[C-]OOCC,DMSO,30.82,0.41,[H]/C(C1=CC=CC=C1)=N\C(C)[C-]OOCC
+CC(C)O,MeCN,6.82,0.7,CC(C)O
+[H]P1N(C(C)(C)C)C2=C(C=CC=C2)N1C(C)(C)C,MeCN,20.93,0.43,[H]P1N(C(C)(C)C)C2=C(C=CC=C2)N1C(C)(C)C
+C(/N1CCCCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3,MeCN,9.94,0.86,C(/N1CCCCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3
+N#C[CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2,DMSO,29.5,0.5,N#C[CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2
+C=C(C1=CC=CC=C1)N2CCCCC2,MeCN,11.6,0.8,C=C(C1=CC=CC=C1)N2CCCCC2
+C[Si](O/C(C1=CC=CC=C1)=C\C2=CC=CC=C2)(C)C,MeCN,3.0,0.83,C[Si](O/C(C1=CC=CC=C1)=C\C2=CC=CC=C2)(C)C
+[H]/C(C1=CC=CC=C1)=N\[CH-]C(OCC)=O,DMSO,29.1,0.5,[H]/C(C1=CC=CC=C1)=N\[CH-]C(OCC)=O
+N#CC1=CC=C([CH-]S(=O)(C(F)(F)F)=O)C=C1,MeCN,15.62,0.99,N#CC1=CC=C([CH-]S(=O)(C(F)(F)F)=O)C=C1
+N1(CCOCC1)/C=C/C2=CC=CC=C2,MeCN,11.66,0.83,N1(CCOCC1)/C=C/C2=CC=CC=C2
+COC(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3,MeCN,11.99,0.84,COC(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3
+COC[C@H]1NCCC1,MeCN,16.5,0.71,COC[C@H]1NCCC1
+C[Si](OC1=CCCC2=CC=CC=C21)(C)C,MeCN,5.06,0.91,C[Si](OC1=CCCC2=CC=CC=C21)(C)C
+C(/N1CCOCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3,MeCN,8.78,0.83,C(/N1CCOCC1)(C2=CC=CC=C2)=C\C3=CC=CC=C3
+OC[C@H]1NCCC1,MeCN,16.74,0.67,OC[C@H]1NCCC1
+[O-]C1=CC=C([N+]([O-])=O)C=C1,DMF,15.05,0.8,[O-]C1=CC=C([N+]([O-])=O)C=C1
+[O-]C1=CC=C(C)C=C1,water,14.3,0.55,[O-]C1=CC=C(C)C=C1
+[O-]C1=CC=C(C#N)C=C1,MeCN,19.58,0.59,[O-]C1=CC=C(C#N)C=C1
+[O-]C1=CC=C(C(F)(F)F)C=C1,DMSO,18.98,0.63,[O-]C1=CC=C(C(F)(F)F)C=C1
+C12=CC=CC=C1C(N3CCCC3)=CCC2,MeCN,14.09,0.66,C12=CC=CC=C1C(N3CCCC3)=CCC2
+[O-]C1=CC=C(C)C=C1,DMF,19.65,0.85,[O-]C1=CC=C(C)C=C1
+[H]P1N(C(C)(C)C)CCCN1C(C)(C)C,MeCN,13.46,0.52,[H]P1N(C(C)(C)C)CCCN1C(C)(C)C
+O=C(N(C)C)[C@H]1NCCC1,MeCN,17.61,0.67,O=C(N(C)C)[C@H]1NCCC1
+[H]/C(C1=CC=C(Cl)C=C1)=N\[CH-]C(OCC)=O,DMSO,29.02,0.49,[H]/C(C1=CC=C(Cl)C=C1)=N\[CH-]C(OCC)=O
+[O-]C1=CC=C([N+]([O-])=O)C=C1,DMSO,14.32,0.77,[O-]C1=CC=C([N+]([O-])=O)C=C1
+[O-]C1=CC=CC=C1C(F)(F)F,DMF,20.37,0.58,[O-]C1=CC=CC=C1C(F)(F)F
+C12=CC=CC=C1C(N3CCCC3)=CC2,MeCN,15.27,0.93,C12=CC=CC=C1C(N3CCCC3)=CC2
+[O-]C1=CC=CC([N+]([O-])=O)=C1,DMSO,21.29,0.54,[O-]C1=CC=CC([N+]([O-])=O)=C1
+O=C(NC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1)NC[C@H]2NCCC2,MeCN,17.5,0.64,O=C(NC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1)NC[C@H]2NCCC2
+[H]P1N(C(C)(C)C)C=CN1C(C)(C)C,MeCN,25.54,0.35,[H]P1N(C(C)(C)C)C=CN1C(C)(C)C
+[O-]C1=CC=CC=C1[N+]([O-])=O,DMF,16.65,0.7,[O-]C1=CC=CC=C1[N+]([O-])=O
+O=[N+](C(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3)[O-],MeCN,10.42,0.82,O=[N+](C(C=C1)=CC=C1/C=C(C2=CC=CC=C2)/N3CCCC3)[O-]
+O=C([CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2)OC(C)(C)C,DMSO,27.77,0.47,O=C([CH-]/N=C(C1=CC=CC=C1)/C2=CC=CC=C2)OC(C)(C)C
+NC[C@H]1NCCC1,MeCN,17.24,0.67,NC[C@H]1NCCC1
+CCO,MeCN,7.13,0.71,CCO
+CC1(C)O[B-](C(C)=C)(C2=CC=CC=C2)OC1(C)C.[Li+],MeCN,11.0,0.57,CC1(C)O[B-](C(C)=C)(C2=CC=CC=C2)OC1(C)C.[Li+]
+[H]P1N(C(C)(C)C)CCN1C(C)(C)C,MeCN,18.74,0.47,[H]P1N(C(C)(C)C)CCN1C(C)(C)C
+[O-]C1=CC=CC=C1,DMSO,19.86,0.71,[O-]C1=CC=CC=C1
+OC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3,MeCN,16.18,0.56,OC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3
+[O-]C1=CC=C(C)C=C1,DMSO,19.08,0.87,[O-]C1=CC=C(C)C=C1
+C1(C(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)NCCC1,MeCN,9.16,1.39,C1(C(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)NCCC1
+C[Si](OC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3)(C)C,MeCN,12.03,0.98,C[Si](OC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3)(C)C
+[C@H]1(CN2N=NC(C3=CC=CC=C3)=C2)NCCC1,MeCN,15.32,0.72,[C@H]1(CN2N=NC(C3=CC=CC=C3)=C2)NCCC1
+[O-]C1=C(C(C)(C)C)C=CC=C1C(C)(C)C,DMSO,21.02,0.59,[O-]C1=C(C(C)(C)C)C=CC=C1C(C)(C)C
+O=C(OC)[C@H]1NCCC1,MeCN,14.75,0.82,O=C(OC)[C@H]1NCCC1
+CC(C)(C)O,MeCN,5.35,0.72,CC(C)(C)O
+O=C1[C@H](CC2=CC=CC=C2)N[C@H](C3=CC=C(C)O3)N1C,MeCN,8.76,0.89,O=C1[C@H](CC2=CC=CC=C2)N[C@H](C3=CC=C(C)O3)N1C
+[C@H]1(CN2CCCC2)NCCC1,MeCN,18.33,0.64,[C@H]1(CN2CCCC2)NCCC1
+[O-]C1=CC=CC([N+]([O-])=O)=C1,DMF,22.41,0.54,[O-]C1=CC=CC([N+]([O-])=O)=C1
+[O-]C1=CC=C(C(F)(F)F)C=C1,MeCN,21.69,0.53,[O-]C1=CC=C(C(F)(F)F)C=C1
+O=[N+](C1=CC=C([CH-]C#N)C=C1)[O-],MeCN,20.1,0.71,O=[N+](C1=CC=C([CH-]C#N)C=C1)[O-]
+O=[N+](C1=CC=C([CH-]S(=O)(C2=CC=CC=C2)=O)C=C1)[O-],MeCN,19.9,0.66,O=[N+](C1=CC=C([CH-]S(=O)(C2=CC=CC=C2)=O)C=C1)[O-]
+C1CNCC1,MeCN,18.58,0.61,C1CNCC1
+CO,MeCN,6.86,0.73,CO
+[O-]C1=CC=C(C#N)C=C1,DMSO,18.78,0.57,[O-]C1=CC=C(C#N)C=C1
+O=C(C1=CC=C([N+]([O-])=O)C=C1)[CH-]C(OCC)=O,DMSO,16.26,0.83,O=C(C1=CC=C([N+]([O-])=O)C=C1)[CH-]C(OCC)=O
+[H]P1N(C2=C(C(C)C)C=CC=C2C(C)C)C=CN1C3=C(C(C)C)C=CC=C3C(C)C,MeCN,19.85,0.34,[H]P1N(C2=C(C(C)C)C=CC=C2C(C)C)C=CN1C3=C(C(C)C)C=CC=C3C(C)C
+[O-]C1=CC=C(C#N)C=C1,DMF,17.85,0.71,[O-]C1=CC=C(C#N)C=C1
+[O-]C1=CC=CC=C1,MeCN,18.53,0.85,[O-]C1=CC=CC=C1
+[H]P1N(C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C,MeCN,17.68,0.68,[H]P1N(C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C
+[O-]C1=CC=CC(C(F)(F)F)=C1,MeCN,23.2,0.51,[O-]C1=CC=CC(C(F)(F)F)=C1
+[O-]C1=CC=C(Cl)C=C1,DMF,19.67,0.72,[O-]C1=CC=C(Cl)C=C1
+[N-]=[N+]=NC[C@H]1NCCC1,MeCN,15.43,0.73,[N-]=[N+]=NC[C@H]1NCCC1
+O=C1[C@H](CC2=CC=CC=C2)N[C@@H](C3=CC=C(C)O3)N1C,MeCN,7.39,1.0,O=C1[C@H](CC2=CC=CC=C2)N[C@@H](C3=CC=C(C)O3)N1C
+[N-]=[N+]=NC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3,MeCN,9.9,1.22,[N-]=[N+]=NC(C1=CC=CC=C1)(C2=CC=CC=C2)[C@H]3NCCC3
+[O-]C1=CC=CC([N+]([O-])=O)=C1,MeCN,25.51,0.43,[O-]C1=CC=CC([N+]([O-])=O)=C1
+[O-]C1=CC=C(Cl)C=C1,MeCN,18.32,0.82,[O-]C1=CC=C(Cl)C=C1
+[O-]C1=CC=CC=C1,DMF,18.86,0.89,[O-]C1=CC=CC=C1
+O=C(NCCC)[C@H]1NCCC1,MeCN,15.2,0.73,O=C(NCCC)[C@H]1NCCC1
+[O-]C1=CC=C(OC)C=C1,DMF,19.9,0.82,[O-]C1=CC=C(OC)C=C1
+C1(CC2=CC=CC=C2)NCCC1,MeCN,17.43,0.66,C1(CC2=CC=CC=C2)NCCC1
+[O-]C1=CC=CC=C1C(F)(F)F,MeCN,18.39,0.69,[O-]C1=CC=CC=C1C(F)(F)F
+[O-]C1=CC=C(C(C)(C)C)C=C1,DMF,19.9,0.8,[O-]C1=CC=C(C(C)(C)C)C=C1
+FC(C1=CC=C([CH-]S(=O)(C(F)(F)F)=O)C=C1)(F)F,MeCN,16.15,0.99,FC(C1=CC=C([CH-]S(=O)(C(F)(F)F)=O)C=C1)(F)F
+[O-]C1=CC=C(C(C)(C)C)C=C1,DMSO,19.67,0.79,[O-]C1=CC=C(C(C)(C)C)C=C1
+O=C1[C@H](CC2=CC=CC=C2)NC(C)(C)N1C,MeCN,6.04,0.92,O=C1[C@H](CC2=CC=CC=C2)NC(C)(C)N1C
+[O-]C1=CC=C(OC)C=C1,MeCN,20.62,0.69,[O-]C1=CC=C(OC)C=C1
+O=C1C2=C(C=CC=C2)C(N1C[C@H]3NCCC3)=O,MeCN,15.9,0.77,O=C1C2=C(C=CC=C2)C(N1C[C@H]3NCCC3)=O
+CCCC[N+]1=CN(C[C@H]2NCCC2)C=C1.O=S(C(F)(F)F)([O-])=O,MeCN,13.57,0.53,CCCC[N+]1=CN(C[C@H]2NCCC2)C=C1.O=S(C(F)(F)F)([O-])=O
+[O-]C1=CC=CC=C1[N+]([O-])=O,DMSO,15.48,0.71,[O-]C1=CC=CC=C1[N+]([O-])=O
+O=C1[C@H](CC2=CC=CC=C2)N[C@H](C(C)(C)C)N1C,MeCN,5.44,1.12,O=C1[C@H](CC2=CC=CC=C2)N[C@H](C(C)(C)C)N1C
+[O-]C1=CC=CC(C(F)(F)F)=C1,DMSO,22.62,0.51,[O-]C1=CC=CC(C(F)(F)F)=C1
+[O-]C1=CC=C(C(C)(C)C)C=C1,MeCN,21.7,0.58,[O-]C1=CC=C(C(C)(C)C)C=C1
+O=C([O-])[C@H]1NCCC1,MeCN,19.95,0.68,O=C([O-])[C@H]1NCCC1
+CC1(C)NCCC1,MeCN,13.96,0.76,CC1(C)NCCC1
+C=C1N(C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C,THF,17.8,0.79,C=C1N(C2=C(C)C=C(C)C=C2C)C=CN1C3=C(C)C=C(C)C=C3C
+[O-]C1=CC=CC(OC)=C1,MeCN,18.81,0.8,[O-]C1=CC=CC(OC)=C1
+C=C1N(C)C(C=CC=C2)=C2N1C,THF,19.84,0.58,C=C1N(C)C(C=CC=C2)=C2N1C
+[O-]C1=CC=C(Cl)C=C1,DMSO,20.34,0.64,[O-]C1=CC=C(Cl)C=C1
+CC(C)[C@@H]1NCCC1,MeCN,16.44,0.71,CC(C)[C@@H]1NCCC1
+CN(C[C@H]1NCCC1)C,MeCN,17.41,0.68,CN(C[C@H]1NCCC1)C
+C1([Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)NCCC1,MeCN,14.0,0.84,C1([Si](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4)NCCC1
+[N-]=[N+]=C1C=CC=C1,dichloromethane,4.84,1.06,[N-]=[N+]=C1C=CC=C1
+[O-]C1=CC=C(OC)C=C1,DMSO,20.09,0.8,[O-]C1=CC=C(OC)C=C1
+[O-]C1=CC=CC(C(F)(F)F)=C1,DMF,23.4,0.51,[O-]C1=CC=CC(C(F)(F)F)=C1
+[C@H]1(C(C2=CC=CC=C2)C3=CC=CC=C3)NCCC1,MeCN,16.61,0.67,[C@H]1(C(C2=CC=CC=C2)C3=CC=CC=C3)NCCC1
+[O-]C1=CC=C(C(F)(F)F)C=C1,DMF,22.05,0.53,[O-]C1=CC=C(C(F)(F)F)C=C1
+[O-]C(C1=CC=CC=C1)=O,MeCN,16.45,0.72,[O-]C(C1=CC=CC=C1)=O
+[C@H]1(CN2C=NC=C2)NCCC1,MeCN,15.55,0.69,[C@H]1(CN2C=NC=C2)NCCC1
+CC1NCCC1,MeCN,16.78,0.71,CC1NCCC1
+S=C(NC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1)NC[C@H]2NCCC2,MeCN,14.97,0.69,S=C(NC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1)NC[C@H]2NCCC2
+CCCCSCCCC,dichloromethane,11.86,0.74,CCCCSCCCC
+C=C1N(C)CCN1C,THF,18.11,0.68,C=C1N(C)CCN1C
+[S-]C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1,DMSO,19.71,0.86,[S-]C1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1
+C=C1N(C)CCCN1C,THF,18.68,0.63,C=C1N(C)CCCN1C
+[S-]C1=CC=C2C(C=CC=C2)=C1,DMSO,22.55,0.83,[S-]C1=CC=C2C(C=CC=C2)=C1
+[S-]C1=CC=C(C(F)(F)F)C=C1,DMSO,21.3,0.86,[S-]C1=CC=C(C(F)(F)F)C=C1
+[S-]C1=CC=CC(Cl)=C1,DMSO,22.5,0.78,[S-]C1=CC=CC(Cl)=C1
+C12=CN=CC3=C1N(CCC3)CCC2,MeCN,15.6,0.68,C12=CN=CC3=C1N(CCC3)CCC2
+CSC,MeCN,12.7,0.72,CSC
+C1SCCC1,MeCN,13.3,0.72,C1SCCC1
+[S-]C1=CC=C(C)C=C1,DMSO,24.35,0.69,[S-]C1=CC=C(C)C=C1
+C[Se]C,dichloromethane,12.6,0.72,C[Se]C
+[S-]C1=CC=C(OC)C=C1,DMSO,24.97,0.68,[S-]C1=CC=C(OC)C=C1
+C1(N2CCCC2)=CC=NC=C1,MeCN,14.99,0.69,C1(N2CCCC2)=CC=NC=C1
+[S-]C1=CC=CC=C1,DMSO,23.36,0.74,[S-]C1=CC=CC=C1
+[S-]C1=CC=CC(C(F)(F)F)=C1,DMSO,21.75,0.86,[S-]C1=CC=CC(C(F)(F)F)=C1
+O=C1C2=CC=CC=C2NC1=[N+]=[N-],dichloromethane,3.16,1.03,O=C1C2=CC=CC=C2NC1=[N+]=[N-]
+[S-]C1=CC=C(Br)C=C1,DMSO,22.8,0.78,[S-]C1=CC=C(Br)C=C1
+S1CCCCC1,dichloromethane,11.94,0.75,S1CCCCC1
+[S-]C1=CC=C([N+]([O-])=O)C=C1,DMSO,18.92,0.87,[S-]C1=CC=C([N+]([O-])=O)C=C1
+CSC,dichloromethane,12.32,0.72,CSC
+C1SCCC1,dichloromethane,13.1,0.72,C1SCCC1
+CC(C)N([C-]1C2=CC=CC=C2)N=[N+](C(C)C)C1=C,THF,30.25,0.54,CC(C)N([C-]1C2=CC=CC=C2)N=[N+](C(C)C)C1=C
+O=C(C1=CC=CC=C1C2)C2=[N+]=[N-],dichloromethane,5.61,0.65,O=C(C1=CC=CC=C1C2)C2=[N+]=[N-]
+O=C1C2=CC=CC=C2SC1=[N+]=[N-],dichloromethane,0.4,0.93,O=C1C2=CC=CC=C2SC1=[N+]=[N-]
+O=C(C1=CC=CC=C1CC2)C2=[N+]=[N-],dichloromethane,3.51,0.86,O=C(C1=CC=CC=C1CC2)C2=[N+]=[N-]
+C=C1[C-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C,THF,21.36,0.42,C=C1[C-](C2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C
+CC1(C)N(/C=C/C(C)C2=CC=CC=C2)C(C)(C)C(SCC)=N1,MeCN,7.92,0.73,CC1(C)N(/C=C/C(C)C2=CC=CC=C2)C(C)(C)C(SCC)=N1
+C=C(N(C1=C(C(C)C)C=CC=C1C(C)C)N=[N+]2C3=C(C(C)C)C=CC=C3C(C)C)[C-]2C4=C(C(C)C)C=C(C(C)C)C=C4C(C)C,THF,20.78,0.61,C=C(N(C1=C(C(C)C)C=CC=C1C(C)C)N=[N+]2C3=C(C(C)C)C=CC=C3C(C)C)[C-]2C4=C(C(C)C)C=C(C(C)C)C=C4C(C)C
+NC1=NC=NC2=C1N=CN2[C@H]3[C@H](O)[C@H](O)[C@@H](COP([O-])(OP(OC[C@H]4O[C@@H](N5C=C(C(N)=O)C([H])([H])C=C5)[C@H](O)[C@@H]4O)([O-])=O)=O)O3,water,10.37,0.54,NC1=NC=NC2=C1N=CN2[C@H]3[C@H](O)[C@H](O)[C@@H](COP([O-])(OP(OC[C@H]4O[C@@H](N5C=C(C(N)=O)C([H])([H])C=C5)[C@H](O)[C@@H]4O)([O-])=O)=O)O3
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(N1C)=S,MeCN,6.49,0.83,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(N1C)=S
+O=C(C1=CC=CC=C1C2=O)C2=[N+]=[N-],dichloromethane,0.16,0.86,O=C(C1=CC=CC=C1C2=O)C2=[N+]=[N-]
+O=C(C(CCC1)=[N+]=[N-])C2=C1C=CC=C2,dichloromethane,2.72,0.96,O=C(C(CCC1)=[N+]=[N-])C2=C1C=CC=C2
+C=C1[C-](C2=CC=C(OC)C=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C,THF,23.55,0.56,C=C1[C-](C2=CC=C(OC)C=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C
+C=C1[C-](C2=CC=CC=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C,THF,22.8,0.6,C=C1[C-](C2=CC=CC=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C
+O=C(CCCC1)C1=[N+]=[N-],dichloromethane,3.44,0.83,O=C(CCCC1)C1=[N+]=[N-]
+CC1(C)N(/C=C/CC2=CC=CC=C2)C(C)(C)C(SCC)=N1,MeCN,9.64,0.7,CC1(C)N(/C=C/CC2=CC=CC=C2)C(C)(C)C(SCC)=N1
+C[C-]1C([N+](C2=C(C(C)C)C=CC=C2C(C)C)=NN1C3=C(C(C)C)C=CC=C3C(C)C)=C,THF,24.86,0.52,C[C-]1C([N+](C2=C(C(C)C)C=CC=C2C(C)C)=NN1C3=C(C(C)C)C=CC=C3C(C)C)=C
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC)=N1,dichloromethane,8.13,0.97,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC)=N1
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC#N)=N1,dichloromethane,7.06,1.11,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC#N)=N1
+C/C=C/N1C(C)(C)C(SCC#N)=NC1(C)C,MeCN,9.25,0.84,C/C=C/N1C(C)(C)C(SCC#N)=NC1(C)C
+C=C1[C-](C2=CC=C(C(F)(F)F)C=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C,THF,22.3,0.49,C=C1[C-](C2=CC=C(C(F)(F)F)C=C2)N(C3=C(C(C)C)C=CC=C3C(C)C)N=[N+]1C4=C(C(C)C)C=CC=C4C(C)C
+O=[N+]([CH-]C)[O-],DMF,22.21,0.48,O=[N+]([CH-]C)[O-]
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC#N)=N1,MeCN,7.74,0.87,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC#N)=N1
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC)=N1,MeCN,8.12,0.88,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC)=N1
+CCSC1=NC2(CCCC2)N(/C=C/C3=CC=CC=C3)C14CCCC4,MeCN,7.79,0.87,CCSC1=NC2(CCCC2)N(/C=C/C3=CC=CC=C3)C14CCCC4
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC3=CC=CC=C3)=N1,MeCN,8.3,0.84,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC3=CC=CC=C3)=N1
+CC(C)N([C-]1C(C)(C)C)N=[N+](C(C)C)C1=C,THF,31.92,0.52,CC(C)N([C-]1C(C)(C)C)N=[N+](C(C)C)C1=C
+FC1(F)CN2C(SC3=C2C=CC=C3)=N[C@H]1C4=CC=CC=C4,dichloromethane,10.83,0.8,FC1(F)CN2C(SC3=C2C=CC=C3)=N[C@H]1C4=CC=CC=C4
+CC1=NC=CC=C1,MeCN,10.98,0.66,CC1=NC=CC=C1
+C=C1N(C)C=C(C)C=C1C,DMSO,21.16,0.59,C=C1N(C)C=C(C)C=C1C
+C=C1N(C)C=CC=C1C,MeCN,19.69,0.61,C=C1N(C)C=CC=C1C
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC3=CC=CC=C3)=N1,dichloromethane,7.99,0.98,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(SCC3=CC=CC=C3)=N1
+C=C1N(C2=CC=C(C(C)(C)C)C=C2)C(C3=CC=CC=C3)=CC(C4=CC=CC=C4)=C1,DMSO,19.36,0.68,C=C1N(C2=CC=C(C(C)(C)C)C=C2)C(C3=CC=CC=C3)=CC(C4=CC=CC=C4)=C1
+CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(N1C)=O,MeCN,7.1,0.82,CC1(C)N(/C=C/C2=CC=CC=C2)C(C)(C)C(N1C)=O
+C=C1N(C)C=CC=C1C,DMSO,19.91,0.62,C=C1N(C)C=CC=C1C
+CC1=NC(C)=CC=C1,dichloromethane,9.87,0.68,CC1=NC(C)=CC=C1
+CC1(C)N(/C=C/CC)C(C)(C)C(SCC#N)=N1,MeCN,9.23,0.74,CC1(C)N(/C=C/CC)C(C)(C)C(SCC#N)=N1
+C=C1N(C)C=CC=C1C2=CC=CC=C2,DMSO,19.41,0.61,C=C1N(C)C=CC=C1C2=CC=CC=C2
+CC1=NC(C)=CC(C)=C1,dichloromethane,9.34,0.71,CC1=NC(C)=CC(C)=C1
+Cl[CH-]S(=O)(C1=CC=CC=C1)=O,DMF,26.64,0.64,Cl[CH-]S(=O)(C1=CC=CC=C1)=O
+CC1=NC(C)=CC=C1,MeCN,9.11,0.69,CC1=NC(C)=CC=C1
+O=C1[CH-]C2=CC=CC=C2CO1,DMSO,25.39,0.54,O=C1[CH-]C2=CC=CC=C2CO1
+C=C1N(C)C(C)=CC=C1,DMSO,20.76,0.6,C=C1N(C)C(C)=CC=C1
+CC1=NC=CC=C1,dichloromethane,10.52,0.78,CC1=NC=CC=C1
+O=C1[CH-]C2=CC=CC=C2O1,DMSO,19.6,0.75,O=C1[CH-]C2=CC=CC=C2O1
+CC1=NC(C)=CC(C)=C1,MeCN,9.39,0.6,CC1=NC(C)=CC(C)=C1
+N1=CC=CC=C1,MeCN,13.6,0.6,N1=CC=CC=C1
+O=C(C(C(OC)=O)=[N+]=[N-])OC,dichloromethane,-1.24,0.81,O=C(C(C(OC)=O)=[N+]=[N-])OC
+[H]C(C(OC)=O)=[N+]=[N-],dichloromethane,4.68,0.94,[H]C(C(OC)=O)=[N+]=[N-]
+O=S([N-]C1=CC=NC=C1)(C2=CC=C(C)C=C2)=O,MeCN,17.19,0.64,O=S([N-]C1=CC=NC=C1)(C2=CC=C(C)C=C2)=O
+O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O,MeCN,16.38,0.6,O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O
+O=S([N-]C1=CC=NC=C1)(C2=CC=C(OC)C=C2)=O,MeCN,17.28,0.65,O=S([N-]C1=CC=NC=C1)(C2=CC=C(OC)C=C2)=O
+O=S([N-]C1=CC=NC=C1)(C2=CC=C(OC)C=C2)=O,dichloromethane,19.63,0.65,O=S([N-]C1=CC=NC=C1)(C2=CC=C(OC)C=C2)=O
+O=S([N-]C1=CC=NC=C1)(C2=CC=C(C(F)(F)F)C=C2)=O,MeCN,19.51,0.47,O=S([N-]C1=CC=NC=C1)(C2=CC=C(C(F)(F)F)C=C2)=O
+O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O,dichloromethane,17.88,0.73,O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O
+O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O,MeCN,16.68,0.59,O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O
+O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O,MeCN,16.48,0.6,O=S([N-]C1=CC=NC=C1)(C(F)(F)F)=O
