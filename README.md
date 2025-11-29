@@ -14,7 +14,7 @@ This codebase implements a complete pipeline:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prop_guided_co2_carbanion.git
+git clone https://github.com/bo-li/prop_guided_co2_carbanion.git
 cd prop_guided_co2_carbanion
 ```
 
