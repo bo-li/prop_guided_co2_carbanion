@@ -261,88 +261,99 @@ class CarbanionClassifier:
                 Default: False (Strategy 1: direct bonds only)
 
         Returns:
-            set: Set of EWG type strings (e.g., {'Ar', 'CN', 'CO2R'})
+            list: List of EWG type strings (e.g., ['Ar', 'CN', 'CO2R'])
+                  Returns list (not set) to preserve multiplicity for duplicate groups
         """
         mol = Chem.MolFromSmiles(smiles)
         if mol is None:
-            return set()
+            return []
 
         carbanion_idx = self.find_carbanion_center(mol)
         if carbanion_idx is None:
-            return set()
+            return []
 
         carbanion_atom = mol.GetAtomWithIdx(carbanion_idx)
         neighbors = list(carbanion_atom.GetNeighbors())
-        alpha_groups = set()
+        alpha_groups = []
 
         for n_atom in neighbors:
             n_symbol = n_atom.GetSymbol()
             n_idx = n_atom.GetIdx()
+            group_found = False
+
+            # Nitro group directly attached: N+ with oxygens (PRIORITY CHECK)
+            if n_symbol == 'N':
+                oxygen_count = sum(1 for nn in n_atom.GetNeighbors()
+                                 if nn.GetSymbol() == 'O')
+                if oxygen_count >= 2:
+                    alpha_groups.append('NO2')
+                    group_found = True
+                elif not group_found:
+                    # Imine group: C=N or N=C (only if not already NO2)
+                    for bond in n_atom.GetBonds():
+                        if bond.GetBondType() == Chem.BondType.DOUBLE:
+                            alpha_groups.append('C=N')
+                            group_found = True
+                            break
 
             # Check for carbonyl-based groups (CN, CO2R, COR)
-            if n_symbol == 'C':
-                for nn in n_atom.GetNeighbors():
-                    if nn.GetIdx() != carbanion_idx:
-                        bond = mol.GetBondBetweenAtoms(n_idx, nn.GetIdx())
+            elif n_symbol == 'C':
+                has_aromatic = n_atom.GetIsAromatic()
 
-                        # Cyano group: C≡N
-                        if nn.GetSymbol() == 'N' and bond.GetBondType() == Chem.BondType.TRIPLE:
-                            alpha_groups.add('CN')
+                if has_aromatic:
+                    # Aromatic ring - count as one 'Ar' regardless of substituents
+                    alpha_groups.append('Ar')
+                    group_found = True
 
-                        # Carbonyl groups: C=O
-                        if nn.GetSymbol() == 'O' and bond.GetBondType() == Chem.BondType.DOUBLE:
-                            # Check if ester (has O-R) or ketone (no O-R)
-                            has_OR = any(
-                                mol.GetBondBetweenAtoms(n_idx, nnn.GetIdx()).GetBondType() == Chem.BondType.SINGLE
-                                for nnn in n_atom.GetNeighbors()
-                                if nnn.GetIdx() != carbanion_idx and nnn.GetSymbol() == 'O'
-                            )
-                            alpha_groups.add('CO2R' if has_OR else 'COR')
+                    # Strategy 2: Check for EWG substituents on aromatic ring
+                    if include_aromatic_substituents:
+                        aromatic_subs = self._get_aromatic_substituents(mol, n_idx)
+                        for sub in aromatic_subs:
+                            alpha_groups.append(f'Ar-{sub}')
+                else:
+                    for nn in n_atom.GetNeighbors():
+                        if nn.GetIdx() != carbanion_idx:
+                            bond = mol.GetBondBetweenAtoms(n_idx, nn.GetIdx())
 
-            # Sulfonyl group: S with 2+ oxygens
-            if n_symbol == 'S':
+                            # Cyano group: C≡N
+                            if nn.GetSymbol() == 'N' and bond.GetBondType() == Chem.BondType.TRIPLE:
+                                alpha_groups.append('CN')
+                                group_found = True
+
+                            # Carbonyl groups: C=O
+                            if nn.GetSymbol() == 'O' and bond.GetBondType() == Chem.BondType.DOUBLE:
+                                # Check if ester (has O-R) or ketone (no O-R)
+                                has_OR = any(
+                                    mol.GetBondBetweenAtoms(n_idx, nnn.GetIdx()).GetBondType() == Chem.BondType.SINGLE
+                                    for nnn in n_atom.GetNeighbors()
+                                    if nnn.GetIdx() != carbanion_idx and nnn.GetSymbol() == 'O'
+                                )
+                                if has_OR:
+                                    alpha_groups.append('CO2R')
+                                else:
+                                    alpha_groups.append('COR')
+                                group_found = True
+
+                    # If no EWG found on carbon, it's aliphatic
+                    if not group_found:
+                        alpha_groups.append('Aliphatic')
+                        group_found = True
+
+            # Sulfonyl group: SO2R
+            elif n_symbol == 'S':
                 oxygen_count = sum(1 for nn in n_atom.GetNeighbors() if nn.GetSymbol() == 'O')
                 if oxygen_count >= 2:
-                    alpha_groups.add('SO2R')
+                    alpha_groups.append('SO2R')
+                    group_found = True
 
-            # Nitro group: N with 2+ oxygens
-            if n_symbol == 'N':
-                oxygen_count = sum(1 for nn in n_atom.GetNeighbors() if nn.GetSymbol() == 'O')
-                if oxygen_count >= 2:
-                    alpha_groups.add('NO2')
+            # Halides
+            elif n_symbol in ['F', 'Cl', 'Br', 'I']:
+                alpha_groups.append('X')
+                group_found = True
 
-            # Imine group: C=N or N=C
-            if n_symbol == 'N':
-                for bond in n_atom.GetBonds():
-                    if bond.GetBondType() == Chem.BondType.DOUBLE:
-                        alpha_groups.add('C=N')
-                        break
-
-            # Aromatic group
-            if n_atom.GetIsAromatic():
-                alpha_groups.add('Ar')
-
-                # Strategy 2: Check for EWG substituents on aromatic ring
-                if include_aromatic_substituents:
-                    aromatic_subs = self._get_aromatic_substituents(mol, n_idx)
-                    for sub in aromatic_subs:
-                        alpha_groups.add(f'Ar-{sub}')
-
-            # Halides (F, Cl, Br, I) - grouped as 'X'
-            if n_symbol in ['F', 'Cl', 'Br', 'I']:
-                alpha_groups.add('X')
-
-        # After checking all neighbors, if no EWGs found but has carbon neighbors,
-        # add 'Aliphatic' for aliphatic carbon substituents
-        if len(alpha_groups) == 0 and len(neighbors) > 0:
-            # Check if any neighbors are carbon atoms (aliphatic substituents)
-            has_carbon = any(n.GetSymbol() == 'C' for n in neighbors)
-            if has_carbon:
-                alpha_groups.add('Aliphatic')
-            else:
-                # Has non-carbon neighbors but no recognized EWGs
-                # These are edge cases like S, isonitriles, etc.
-                alpha_groups.add('Other')
+            # Other substituents (S, P, etc.)
+            if not group_found and n_symbol not in ['H', 'C', 'N', 'O', 'F', 'Cl', 'Br', 'I', 'S']:
+                alpha_groups.append('Other')
 
         return alpha_groups
 
@@ -424,15 +435,19 @@ class CarbanionClassifier:
 
     def get_group_count(self, smiles):
         """
-        Get the number of alpha-substituent groups.
+        Get the number of unique EWG alpha-substituent groups.
+
+        Note: Excludes 'Aliphatic' and 'Other' as they are not EWGs.
 
         Args:
             smiles: SMILES string
 
         Returns:
-            int: Number of EWG groups (0 if invalid)
+            int: Number of unique EWG groups (0 if no EWGs)
         """
-        return len(self.get_alpha_groups(smiles))
+        groups = self.get_alpha_groups(smiles)
+        ewg_groups = [g for g in groups if g not in ['Aliphatic', 'Other']]
+        return len(set(ewg_groups))
 
     def classify_multiplicity(self, smiles):
         """
@@ -454,19 +469,65 @@ class CarbanionClassifier:
         else:
             return 'triple'
 
-    def get_combination_string(self, smiles, separator=' + '):
+    def get_ewg_counts(self, smiles):
         """
-        Get a string representation of all EWG groups.
+        Get count of each EWG type as alpha substituent.
 
         Args:
             smiles: SMILES string
-            separator: String to separate groups
 
         Returns:
-            str: Sorted combination string (e.g., 'Ar + CN + CO2R')
+            dict: Counts for each EWG type (e.g., {'Ar': 1, 'CO2R': 2, 'CN': 0, ...})
         """
         groups = self.get_alpha_groups(smiles)
-        return separator.join(sorted(groups))
+        group_counts = Counter(groups)
+
+        # Return counts for all actual EWG types (exclude Aliphatic, Other)
+        ewg_types = ['Ar', 'CN', 'CO2R', 'COR', 'C=N', 'NO2', 'SO2R', 'X']
+        return {ewg: group_counts.get(ewg, 0) for ewg in ewg_types}
+
+    def get_combination_string(self, smiles, separator=' + '):
+        """
+        Get a string representation of all EWG groups with multiplicity.
+
+        Note: 'Aliphatic' is excluded as it's not an EWG, just the carbon backbone.
+
+        Examples:
+            ['CO2R', 'CO2R', 'Aliphatic'] -> 'CO2R, CO2R'
+            ['Ar', 'NO2'] -> 'Ar + NO2'
+            ['COR'] -> 'COR'
+            ['Aliphatic'] -> '' (no EWGs)
+
+        Args:
+            smiles: SMILES string
+            separator: String to separate different group types (default: ' + ')
+
+        Returns:
+            str: Formatted combination string (empty if no EWGs)
+        """
+        groups = self.get_alpha_groups(smiles)
+        if not groups:
+            return ''
+
+        # Filter out non-EWG groups (Aliphatic, Other)
+        ewg_groups = [g for g in groups if g not in ['Aliphatic', 'Other']]
+        if not ewg_groups:
+            return ''
+
+        # Count each group type
+        group_counts = Counter(ewg_groups)
+
+        # Build sorted list with multiplicities
+        result_parts = []
+        for group in sorted(group_counts.keys()):
+            count = group_counts[group]
+            if count == 1:
+                result_parts.append(group)
+            else:
+                # Repeat the group name: "CO2R, CO2R"
+                result_parts.append(', '.join([group] * count))
+
+        return separator.join(result_parts)
 
     def has_group(self, smiles, group):
         """
@@ -594,13 +655,12 @@ class CarbanionClassifier:
         result['alpha_groups'] = result[smiles_column].apply(
             lambda x: self.get_alpha_groups(x, include_aromatic_substituents=include_aromatic_substituents)
         )
-        result['n_unique_ewg'] = result['alpha_groups'].apply(len)
-        result['ewg_multiplicity'] = result['alpha_groups'].apply(
-            lambda x: 'single' if len(x) == 1 else ('double' if len(x) == 2 else ('triple' if len(x) >= 3 else 'none'))
-        )
-        result['combination'] = result['alpha_groups'].apply(
-            lambda x: ' + '.join(sorted(x))
-        )
+        # n_unique_ewg: count only actual EWGs (exclude Aliphatic, Other)
+        result['n_unique_ewg'] = result[smiles_column].apply(self.get_group_count)
+        # ewg_multiplicity: based on EWG count only
+        result['ewg_multiplicity'] = result[smiles_column].apply(self.classify_multiplicity)
+        # combination: use get_combination_string which filters out non-EWGs
+        result['combination'] = result[smiles_column].apply(self.get_combination_string)
 
         # Substitution degree (primary/secondary/tertiary)
         result['substitution_degree'] = result[smiles_column].apply(self.get_substitution_degree)
@@ -608,6 +668,21 @@ class CarbanionClassifier:
 
         # Ring counts
         result['n_aromatic_rings'] = result[smiles_column].apply(self.count_aromatic_rings)
+
+        # Individual EWG count columns (alpha substituents only)
+        ewg_types = ['Ar', 'CN', 'CO2R', 'COR', 'C=N', 'NO2', 'SO2R', 'X']
+        for ewg in ewg_types:
+            result[f'n_{ewg}_alpha'] = result[smiles_column].apply(
+                lambda x: self.get_ewg_counts(x).get(ewg, 0)
+            )
+
+        # Common pattern boolean flags
+        result['is_pure_diester'] = (result['n_CO2R_alpha'] >= 2) & (result['n_unique_ewg'] == 1)
+        result['is_mixed_diester'] = (result['n_CO2R_alpha'] >= 2) & (result['n_unique_ewg'] > 1)
+        result['is_Ar_CO2R'] = (result['n_Ar_alpha'] >= 1) & (result['n_CO2R_alpha'] >= 1)
+        result['is_Ar_CN'] = (result['n_Ar_alpha'] >= 1) & (result['n_CN_alpha'] >= 1)
+        result['is_CN_CO2R'] = (result['n_CN_alpha'] >= 1) & (result['n_CO2R_alpha'] >= 1)
+        result['is_Ar_NO2'] = (result['n_Ar_alpha'] >= 1) & (result['n_NO2_alpha'] >= 1)
 
         # Individual group flags - ANYWHERE in molecule (not just alpha substituents)
         for ewg in self.EWG_TYPES:
